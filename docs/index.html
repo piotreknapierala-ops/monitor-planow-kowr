@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor planów KOWR</title>
+<style>
+:root{
+  --green:#173e27;--green2:#255d3a;--bg:#f3f6f3;--card:#fff;--text:#172019;
+  --muted:#667069;--line:#dbe3dc;--red:#a32b2b;--orange:#a45b00;--blue:#1c5d8f;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:Arial,Helvetica,sans-serif}
+header{background:linear-gradient(130deg,var(--green),var(--green2));color:#fff;padding:25px max(18px,calc((100vw - 1450px)/2))}
+header h1{margin:0 0 7px;font-size:29px} header p{margin:0;opacity:.88;line-height:1.45}
+main{max-width:1450px;margin:auto;padding:20px}
+.banner{display:none;background:#fff4ce;border:1px solid #e3c967;border-radius:10px;padding:12px 14px;margin-bottom:14px}
+.stats{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;margin-bottom:14px}
+.stat,.filters,.table-wrap,.errors{background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 2px 10px rgba(23,62,39,.05)}
+.stat{padding:14px}.stat small{display:block;color:var(--muted);margin-bottom:7px}.stat strong{font-size:24px}
+.filters{display:grid;grid-template-columns:1.7fr 1fr 1fr 1fr auto;gap:10px;padding:13px;margin-bottom:14px;align-items:end}
+label{display:block;font-size:12px;font-weight:700;color:var(--muted);margin-bottom:5px}
+input,select,button{font:inherit} input,select{width:100%;padding:10px;border:1px solid #cbd6cd;border-radius:8px;background:#fff}
+button{border:0;border-radius:8px;padding:10px 13px;background:var(--green);color:#fff;cursor:pointer;font-weight:700}
+.table-wrap{overflow:hidden}.table-scroll{overflow:auto}
+table{width:100%;border-collapse:collapse;min-width:1180px}th{position:sticky;top:0;background:#edf3ee;text-align:left;font-size:12px;color:#46534a;padding:11px;border-bottom:1px solid var(--line);z-index:1}
+td{padding:11px;border-bottom:1px solid #e7ece8;vertical-align:top;font-size:13px;line-height:1.38}tr:hover td{background:#fbfdfb}
+.subject{font-weight:700;font-size:14px;max-width:470px}.sub{color:var(--muted);font-size:12px;margin-top:4px}.money{white-space:nowrap;font-weight:700}.tag{display:inline-block;border-radius:999px;padding:5px 8px;font-size:11px;font-weight:800;white-space:nowrap}
+.t-NOWE{background:#d9f3df;color:#155c27}.t-ZMIANA{background:#fff0c7;color:#7a4a00}.t-OPUBLIKOWANE{background:#dcecf8;color:#164e75}.t-PLANOWANE{background:#edf0ed;color:#445048}.t-ZBLIŻA{background:#ffe4bf;color:#814400}.t-PO{background:#f8dada;color:#8b2020}.t-REZYGNACJA{background:#ececec;color:#666}
+a.btn{display:inline-block;text-decoration:none;border-radius:7px;padding:7px 9px;font-size:12px;font-weight:700;margin:1px 2px 3px 0}.primary{background:var(--green);color:#fff}.secondary{background:#edf3ee;color:#23482e;border:1px solid #cfdbd1}.muted-link{color:#486052;text-decoration:none;font-size:12px}
+.footerline{display:flex;justify-content:space-between;gap:15px;padding:12px 14px;color:var(--muted);font-size:12px}.empty{padding:35px;text-align:center;color:var(--muted)}
+.errors{margin-top:14px;padding:12px}.errors summary{cursor:pointer;font-weight:700}.errors pre{white-space:pre-wrap;font-size:12px;color:#7f2424}
+@media(max-width:980px){.stats{grid-template-columns:repeat(2,1fr)}.filters{grid-template-columns:1fr 1fr}.filters .wide{grid-column:1/-1}}
+@media(max-width:560px){header h1{font-size:24px}.stats{grid-template-columns:1fr 1fr}.filters{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header>
+  <h1>Monitor planów postępowań KOWR</h1>
+  <p>Planowane roboty budowlane Centrali i Oddziałów Terenowych: co, gdzie, za ile i kiedy ma zostać ogłoszone.</p>
+</header>
+<main>
+  <div id="banner" class="banner"></div>
+  <section class="stats">
+    <div class="stat"><small>Aktywne roboty</small><strong id="sItems">–</strong></div>
+    <div class="stat"><small>Łączna wartość netto</small><strong id="sValue">–</strong></div>
+    <div class="stat"><small>Jednostki KOWR</small><strong id="sUnits">–</strong></div>
+    <div class="stat"><small>Nowe / zmienione</small><strong id="sChanges">–</strong></div>
+    <div class="stat"><small>Znalezione ogłoszenia</small><strong id="sPublished">–</strong></div>
+    <div class="stat"><small>Po terminie bez linku</small><strong id="sPast">–</strong></div>
+  </section>
+
+  <section class="filters">
+    <div class="wide"><label for="q">Szukaj po przedmiocie, miejscowości lub jednostce</label><input id="q" placeholder="np. rozbiórka, obora, Białystok, dach"></div>
+    <div><label for="unit">Jednostka</label><select id="unit"><option value="">Wszystkie</option></select></div>
+    <div><label for="status">Status</label><select id="status"><option value="">Wszystkie</option></select></div>
+    <div><label for="term">Termin</label><select id="term"><option value="">Wszystkie</option></select></div>
+    <button id="reset">Wyczyść filtry</button>
+  </section>
+
+  <section class="table-wrap">
+    <div class="table-scroll">
+      <table>
+        <thead><tr>
+          <th>Status</th><th>Jednostka</th><th>Przedmiot zamówienia</th><th>Lokalizacja</th><th>Wartość netto</th>
+          <th>Planowany termin</th><th>Zmiana planu</th><th>Źródło / ogłoszenie</th>
+        </tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <div class="footerline"><span id="count"></span><span id="updated"></span></div>
+  </section>
+  <details id="errorsBox" class="errors" hidden><summary>Problemy techniczne podczas ostatniego skanu</summary><pre id="errors"></pre></details>
+</main>
+<script>
+let DATA={items:[],meta:{summary:{}}};
+const $=id=>document.getElementById(id);
+const fmtMoney=v=>v==null?'brak kwoty':new Intl.NumberFormat('pl-PL',{style:'currency',currency:'PLN',maximumFractionDigits:0}).format(v);
+function statusClass(s){if(s==='NOWE')return't-NOWE';if(s==='ZMIANA')return't-ZMIANA';if(s==='OPUBLIKOWANE')return't-OPUBLIKOWANE';if(s==='REZYGNACJA')return't-REZYGNACJA';if(s.startsWith('ZBLIŻA'))return't-ZBLIŻA';if(s.startsWith('PO TERMINIE'))return't-PO';return't-PLANOWANE'}
+function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function fillSelect(id,values){const el=$(id);[...new Set(values.filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pl')).forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;el.appendChild(o)})}
+function linksHtml(item){
+  let html=`<a class="btn secondary" target="_blank" rel="noopener" href="${esc(item.plan_url)}">Plan PDF</a>`;
+  const matches=item.announcement_matches||[];
+  if(matches.length){matches.slice(0,3).forEach((m,i)=>{html+=`<a class="btn primary" target="_blank" rel="noopener" href="${esc(m.url)}">${matches.length>1?'Ogłoszenie '+(i+1):'Otwórz ogłoszenie'}</a>`})}
+  else html+=`<a class="btn secondary" target="_blank" rel="noopener" href="${esc(DATA.meta.platform_url)}">Sprawdź platformę</a>`;
+  return html;
+}
+function render(){
+  const q=$('q').value.trim().toLowerCase(), unit=$('unit').value, status=$('status').value, term=$('term').value;
+  let items=DATA.items.filter(x=>!unit||x.unit===unit).filter(x=>!status||x.status===status).filter(x=>!term||x.planned_start===term);
+  if(q)items=items.filter(x=>[x.subject,x.unit,x.planned_start,x.change_detail,x.position].join(' ').toLowerCase().includes(q));
+  $('rows').innerHTML=items.length?items.map(x=>`<tr>
+    <td><span class="tag ${statusClass(x.status)}">${esc(x.status)}</span><div class="sub">${esc(x.change_status==='BEZ ZMIAN'?'':x.change_status)}</div></td>
+    <td><strong>${esc(x.unit)}</strong><div class="sub">poz. ${esc(x.position)} · wersja ${esc(x.plan_version||'?')}</div></td>
+    <td><div class="subject">${esc(x.subject)}</div><div class="sub">${esc(x.threshold||'')} · ${esc(x.procedure||'')}</div></td>
+    <td>${esc(x.location||'lokalizacja w opisie')} </td>
+    <td class="money">${fmtMoney(x.value_net)}</td>
+    <td><strong>${esc(x.planned_start||'brak')}</strong><div class="sub">plan ${esc(x.year)}</div></td>
+    <td>${esc(x.change_detail||'Bez zmian względem poprzedniej wersji')}<div class="sub">${esc(x.plan_date?('plan opublikowany '+x.plan_date):'')}</div></td>
+    <td>${linksHtml(x)}<div class="sub">${x.announcement_matches?.length?('dopasowanie: '+esc(x.announcement_matches[0].confidence)+'%'):'bez potwierdzonego bezpośredniego linku'}</div></td>
+  </tr>`).join(''):`<tr><td colspan="8" class="empty">Brak rekordów spełniających wybrane filtry.</td></tr>`;
+  $('count').textContent=`Wyświetlono ${items.length} z ${DATA.items.length} pozycji`;
+}
+async function start(){
+  try{const r=await fetch('data.json?ts='+Date.now());DATA=await r.json()}catch(e){$('banner').style.display='block';$('banner').textContent='Nie udało się wczytać danych monitora.';return}
+  const s=DATA.meta.summary||{};
+  $('sItems').textContent=s.items??0;$('sValue').textContent=fmtMoney(s.value_net||0);$('sUnits').textContent=(s.units??0)+' / '+(s.expected_units??18);
+  $('sChanges').textContent=s.new_or_changed??0;$('sPublished').textContent=s.published??0;$('sPast').textContent=s.past_due??0;
+  if(DATA.meta.mode==='demo'||!DATA.meta.generated_at){$('banner').style.display='block';$('banner').textContent='Monitor jest gotowy. Dane pojawią się po pierwszym uruchomieniu workflow na GitHubie.'}
+  fillSelect('unit',DATA.items.map(x=>x.unit));fillSelect('status',DATA.items.map(x=>x.status));fillSelect('term',DATA.items.map(x=>x.planned_start));
+  ['q','unit','status','term'].forEach(id=>$(id).addEventListener(id==='q'?'input':'change',render));
+  $('reset').onclick=()=>{['q','unit','status','term'].forEach(id=>$(id).value='');render()};
+  $('updated').textContent=DATA.meta.generated_at?'Aktualizacja: '+new Date(DATA.meta.generated_at).toLocaleString('pl-PL'):'Oczekiwanie na pierwszy skan';
+  if(DATA.meta.errors?.length){$('errorsBox').hidden=false;$('errors').textContent=DATA.meta.errors.join('\n')}
+  render();
+}
+start();
+</script>
+</body>
+</html>

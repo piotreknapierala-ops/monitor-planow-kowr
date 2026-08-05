@@ -1,0 +1,7 @@
+requests==2.32.4
+beautifulsoup4==4.13.4
+pdfplumber==0.11.7
+PyMuPDF==1.26.3
+playwright==1.54.0
+rapidfuzz==3.13.0
+Unidecode==1.4.0

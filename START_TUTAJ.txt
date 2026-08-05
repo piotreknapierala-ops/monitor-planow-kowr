@@ -1,0 +1,24 @@
+MONITOR PLANÓW KOWR – START
+
+1. Na GitHubie utwórz NOWE publiczne repozytorium:
+   monitor-planow-kowr
+
+2. Rozpakuj ZIP i wgraj ZAWARTOŚĆ folderu, a nie sam ZIP.
+   Wgraj również ukryty folder .github.
+
+3. GitHub: Settings → Actions → General → Workflow permissions:
+   zaznacz Read and write permissions i kliknij Save.
+
+4. GitHub: Settings → Pages → Source:
+   wybierz GitHub Actions.
+
+5. GitHub: Actions → Monitor planów KOWR → Run workflow → Run workflow.
+   Pierwszy skan może potrwać około 8–15 minut, ponieważ pobiera PDF-y
+   i uruchamia wirtualną przeglądarkę do sprawdzania platformy eB2B.
+
+6. Po zielonym Success wejdź do Settings → Pages.
+   Adres będzie miał postać:
+   https://TWOJ-LOGIN.github.io/monitor-planow-kowr/
+
+NICZEGO NIE INSTALUJESZ NA KOMPUTERZE.
+Skan wykonuje GitHub na swoich serwerach.

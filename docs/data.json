@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "generated_at": "",
+    "year": 2026,
+    "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
+    "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
+    "mode": "demo",
+    "summary": {"items": 0, "units": 0, "documents": 0, "value_net": 0, "new_or_changed": 0, "published": 0, "past_due": 0, "expected_units": 18, "missing_units": 18},
+    "errors": [],
+    "missing_units": []
+  },
+  "items": [],
+  "documents": []
+}
