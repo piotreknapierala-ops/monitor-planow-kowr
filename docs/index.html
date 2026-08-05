@@ -18,7 +18,7 @@ main{max-width:1450px;margin:auto;padding:20px}
 .stats{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;margin-bottom:14px}
 .stat,.filters,.table-wrap,.errors{background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 2px 10px rgba(23,62,39,.05)}
 .stat{padding:14px}.stat small{display:block;color:var(--muted);margin-bottom:7px}.stat strong{font-size:24px}
-.filters{display:grid;grid-template-columns:1.7fr 1fr 1fr 1fr auto;gap:10px;padding:13px;margin-bottom:14px;align-items:end}
+.filters{display:grid;grid-template-columns:1.6fr repeat(6,minmax(135px,1fr)) auto;gap:10px;padding:13px;margin-bottom:14px;align-items:end}
 label{display:block;font-size:12px;font-weight:700;color:var(--muted);margin-bottom:5px}
 input,select,button{font:inherit} input,select{width:100%;padding:10px;border:1px solid #cbd6cd;border-radius:8px;background:#fff}
 button{border:0;border-radius:8px;padding:10px 13px;background:var(--green);color:#fff;cursor:pointer;font-weight:700}
@@ -52,9 +52,12 @@ a.btn{display:inline-block;text-decoration:none;border-radius:7px;padding:7px 9p
 
   <section class="filters">
     <div class="wide"><label for="q">Szukaj po przedmiocie, miejscowości lub jednostce</label><input id="q" placeholder="np. rozbiórka, obora, Białystok, dach"></div>
+    <div><label for="voivodeship">Województwo</label><select id="voivodeship"><option value="">Wszystkie</option></select></div>
     <div><label for="unit">Jednostka</label><select id="unit"><option value="">Wszystkie</option></select></div>
     <div><label for="status">Status</label><select id="status"><option value="">Wszystkie</option></select></div>
-    <div><label for="term">Termin</label><select id="term"><option value="">Wszystkie</option></select></div>
+    <div><label for="term">Planowany termin</label><select id="term"><option value="">Wszystkie</option></select></div>
+    <div><label for="minValue">Kwota netto od</label><input id="minValue" type="number" min="0" step="10000" placeholder="np. 500000"></div>
+    <div><label for="maxValue">Kwota netto do</label><input id="maxValue" type="number" min="0" step="10000" placeholder="np. 5000000"></div>
     <button id="reset">Wyczyść filtry</button>
   </section>
 
@@ -62,7 +65,7 @@ a.btn{display:inline-block;text-decoration:none;border-radius:7px;padding:7px 9p
     <div class="table-scroll">
       <table>
         <thead><tr>
-          <th>Status</th><th>Jednostka</th><th>Przedmiot zamówienia</th><th>Lokalizacja</th><th>Wartość netto</th>
+          <th>Status</th><th>Jednostka</th><th>Przedmiot zamówienia</th><th>Województwo / lokalizacja</th><th>Wartość netto</th>
           <th>Planowany termin</th><th>Zmiana planu</th><th>Źródło / ogłoszenie</th>
         </tr></thead>
         <tbody id="rows"></tbody>
@@ -87,14 +90,25 @@ function linksHtml(item){
   return html;
 }
 function render(){
-  const q=$('q').value.trim().toLowerCase(), unit=$('unit').value, status=$('status').value, term=$('term').value;
-  let items=DATA.items.filter(x=>!unit||x.unit===unit).filter(x=>!status||x.status===status).filter(x=>!term||x.planned_start===term);
-  if(q)items=items.filter(x=>[x.subject,x.unit,x.planned_start,x.change_detail,x.position].join(' ').toLowerCase().includes(q));
+  const q=$('q').value.trim().toLowerCase();
+  const voivodeship=$('voivodeship').value, unit=$('unit').value, status=$('status').value, term=$('term').value;
+  const minValue=$('minValue').value===''?null:Number($('minValue').value);
+  const maxValue=$('maxValue').value===''?null:Number($('maxValue').value);
+
+  let items=DATA.items
+    .filter(x=>!voivodeship||x.voivodeship===voivodeship)
+    .filter(x=>!unit||x.unit===unit)
+    .filter(x=>!status||x.status===status)
+    .filter(x=>!term||x.planned_start===term)
+    .filter(x=>minValue===null||(x.value_net!=null&&x.value_net>=minValue))
+    .filter(x=>maxValue===null||(x.value_net!=null&&x.value_net<=maxValue));
+
+  if(q)items=items.filter(x=>[x.subject,x.unit,x.voivodeship,x.location,x.planned_start,x.change_detail,x.position].join(' ').toLowerCase().includes(q));
   $('rows').innerHTML=items.length?items.map(x=>`<tr>
     <td><span class="tag ${statusClass(x.status)}">${esc(x.status)}</span><div class="sub">${esc(x.change_status==='BEZ ZMIAN'?'':x.change_status)}</div></td>
     <td><strong>${esc(x.unit)}</strong><div class="sub">poz. ${esc(x.position)} · wersja ${esc(x.plan_version||'?')}</div></td>
     <td><div class="subject">${esc(x.subject)}</div><div class="sub">${esc(x.threshold||'')} · ${esc(x.procedure||'')}</div></td>
-    <td>${esc(x.location||'lokalizacja w opisie')} </td>
+    <td><strong>${esc(x.voivodeship||'Nieustalone')}</strong><div class="sub">${esc(x.location||'lokalizacja w opisie planu')}</div></td>
     <td class="money">${fmtMoney(x.value_net)}</td>
     <td><strong>${esc(x.planned_start||'brak')}</strong><div class="sub">plan ${esc(x.year)}</div></td>
     <td>${esc(x.change_detail||'Bez zmian względem poprzedniej wersji')}<div class="sub">${esc(x.plan_date?('plan opublikowany '+x.plan_date):'')}</div></td>
@@ -108,9 +122,13 @@ async function start(){
   $('sItems').textContent=s.items??0;$('sValue').textContent=fmtMoney(s.value_net||0);$('sUnits').textContent=(s.units??0)+' / '+(s.expected_units??18);
   $('sChanges').textContent=s.new_or_changed??0;$('sPublished').textContent=s.published??0;$('sPast').textContent=s.past_due??0;
   if(DATA.meta.mode==='demo'||!DATA.meta.generated_at){$('banner').style.display='block';$('banner').textContent='Monitor jest gotowy. Dane pojawią się po pierwszym uruchomieniu workflow na GitHubie.'}
-  fillSelect('unit',DATA.items.map(x=>x.unit));fillSelect('status',DATA.items.map(x=>x.status));fillSelect('term',DATA.items.map(x=>x.planned_start));
-  ['q','unit','status','term'].forEach(id=>$(id).addEventListener(id==='q'?'input':'change',render));
-  $('reset').onclick=()=>{['q','unit','status','term'].forEach(id=>$(id).value='');render()};
+  fillSelect('voivodeship',DATA.items.map(x=>x.voivodeship));
+  fillSelect('unit',DATA.items.map(x=>x.unit));
+  fillSelect('status',DATA.items.map(x=>x.status));
+  fillSelect('term',DATA.items.map(x=>x.planned_start));
+  ['q','minValue','maxValue'].forEach(id=>$(id).addEventListener('input',render));
+  ['voivodeship','unit','status','term'].forEach(id=>$(id).addEventListener('change',render));
+  $('reset').onclick=()=>{['q','voivodeship','unit','status','term','minValue','maxValue'].forEach(id=>$(id).value='');render()};
   $('updated').textContent=DATA.meta.generated_at?'Aktualizacja: '+new Date(DATA.meta.generated_at).toLocaleString('pl-PL'):'Oczekiwanie na pierwszy skan';
   if(DATA.meta.errors?.length){$('errorsBox').hidden=false;$('errors').textContent=DATA.meta.errors.join('\n')}
   render();
