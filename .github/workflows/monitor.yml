@@ -1,0 +1,64 @@
+name: Monitor planów KOWR
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 6 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  scan-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Ustaw Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Zainstaluj biblioteki
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Pobierz i porównaj plany KOWR
+        run: python scraper.py
+
+      - name: Zapisz wyniki w repozytorium
+        run: |
+          git config user.name "kowr-plan-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs/data.json
+          if git diff --cached --quiet; then
+            echo "Brak zmian do zapisania"
+          else
+            git commit -m "Automatyczna aktualizacja planów KOWR"
+            git push
+          fi
+
+      - name: Skonfiguruj GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Przygotuj stronę
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Opublikuj stronę
+        id: deployment
+        uses: actions/deploy-pages@v4
