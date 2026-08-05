@@ -54,6 +54,47 @@ EXPECTED_UNITS = [
     "OT Poznań", "OT Pruszcz Gdański", "OT Rzeszów", "OT Szczecin", "OT Warszawa", "OT Wrocław",
 ]
 
+
+VOIVODESHIP_BY_UNIT = {
+    "Centrala": "Nieustalone",
+    "OT Białystok": "podlaskie",
+    "OT Bydgoszcz": "kujawsko-pomorskie",
+    "OT Częstochowa": "śląskie",
+    "OT Gorzów Wielkopolski": "lubuskie",
+    "OT Kielce": "świętokrzyskie",
+    "OT Koszalin": "zachodniopomorskie",
+    "OT Kraków": "małopolskie",
+    "OT Lublin": "lubelskie",
+    "OT Łódź": "łódzkie",
+    "OT Olsztyn": "warmińsko-mazurskie",
+    "OT Opole": "opolskie",
+    "OT Poznań": "wielkopolskie",
+    "OT Pruszcz Gdański": "pomorskie",
+    "OT Rzeszów": "podkarpackie",
+    "OT Szczecin": "zachodniopomorskie",
+    "OT Warszawa": "mazowieckie",
+    "OT Wrocław": "dolnośląskie",
+}
+
+VOIVODESHIP_ALIASES = {
+    "dolnoslask": "dolnośląskie",
+    "kujawsko pomorsk": "kujawsko-pomorskie",
+    "lubelsk": "lubelskie",
+    "lubusk": "lubuskie",
+    "lodzk": "łódzkie",
+    "malopolsk": "małopolskie",
+    "mazowieck": "mazowieckie",
+    "opolsk": "opolskie",
+    "podkarpack": "podkarpackie",
+    "podlask": "podlaskie",
+    "pomorsk": "pomorskie",
+    "slask": "śląskie",
+    "swietokrzysk": "świętokrzyskie",
+    "warminsko mazursk": "warmińsko-mazurskie",
+    "wielkopolsk": "wielkopolskie",
+    "zachodniopomorsk": "zachodniopomorskie",
+}
+
 STOPWORDS = {
     "roboty", "budowlane", "budowa", "przebudowa", "remont", "wykonanie", "wykonania",
     "zamowienie", "postepowanie", "krajowy", "osrodek", "wsparcia", "rolnictwa", "oddzial",
@@ -384,6 +425,18 @@ def extract_location(subject: str) -> str:
     return ""
 
 
+
+def infer_voivodeship(unit: str, *texts: str) -> str:
+    """Ustala województwo najpierw z treści planu, a potem z właściwości OT."""
+    combined = norm(" ".join(clean_text(text) for text in texts if text))
+
+    # Dłuższe i bardziej charakterystyczne nazwy sprawdzamy jako pierwsze.
+    for alias, canonical in sorted(VOIVODESHIP_ALIASES.items(), key=lambda x: len(x[0]), reverse=True):
+        if alias in combined:
+            return canonical
+
+    return VOIVODESHIP_BY_UNIT.get(clean_text(unit), "Nieustalone")
+
 def significant_tokens(text: str) -> set[str]:
     words = set(re.findall(r"[a-z0-9]{4,}", norm(text)))
     return {w for w in words if w not in STOPWORDS and not w.isdigit()}
@@ -548,6 +601,12 @@ def run() -> dict[str, Any]:
                 "plan_url": latest.get("url", PLAN_PAGE),
                 "previous_version": previous.get("version", 0) if previous else None,
                 "location": extract_location(row.get("subject", "")),
+                "voivodeship": infer_voivodeship(
+                    unit,
+                    row.get("subject", ""),
+                    row.get("additional_info", ""),
+                    latest.get("city", ""),
+                ),
                 "change_status": change_status,
                 "change_detail": change_detail,
             }
