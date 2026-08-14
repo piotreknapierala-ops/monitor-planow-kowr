@@ -115,7 +115,7 @@
       },
       {
         "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525598/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-lubogoszcz-gmina-grzmiaca-powiat-szczecinecki-wojewodztwo-zachodniopomorskie-na-dz-nr-92-19-obreb-lubogoszcz",
-        "title": "525598 AU-005552 KOS.WO.260.7.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Lubogoszcz, gmina Grzmiąca, powiat szczecinecki, województwo zachodniopomorskie na dz. nr 92/19, obręb Lubogoszcz KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-08-12 11:30 2026-09-04 11:00 21 dni 2026-08-12 11:23 2026-08-12",
+        "title": "525598 AU-005552 KOS.WO.260.7.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Lubogoszcz, gmina Grzmiąca, powiat szczecinecki, województwo zachodniopomorskie na dz. nr 92/19, obręb Lubogoszcz KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-08-12 11:30 2026-09-04 11:00 20 dni 2026-08-12 11:23 2026-08-12",
         "confidence": 100
       }
     ],
@@ -403,10 +403,10 @@
       1,
       "20260209"
     ],
-    "https://www.gov.pl/attachment/db0735cf-e446-4ba0-b3e0-a0fd9df68d73": [
+    "https://www.gov.pl/attachment/af634ad1-06e1-4006-8be1-7b307d8887ea": [
       2026,
-      3,
-      "20260701"
+      4,
+      "20260813"
     ],
     "https://www.gov.pl/attachment/600ea4cb-b5c5-4c1a-bfa3-7ec7b0fb7a8a": [
       2026,
@@ -519,5 +519,5 @@
       "20260730"
     ]
   },
-  "last_run": "2026-08-13T09:53:18+00:00"
+  "last_run": "2026-08-14T09:47:35+00:00"
 }
