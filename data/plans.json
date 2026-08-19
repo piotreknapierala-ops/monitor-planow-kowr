@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T08:07:39+00:00",
+    "generated_at": "2026-08-19T08:09:17+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -8,7 +8,7 @@
     "summary": {
       "items": 154,
       "units": 16,
-      "documents": 37,
+      "documents": 38,
       "value_net": 43977535.08,
       "new_or_changed": 72,
       "published": 24,
@@ -2781,7 +2781,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525598/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-lubogoszcz-gmina-grzmiaca-powiat-szczecinecki-wojewodztwo-zachodniopomorskie-na-dz-nr-92-19-obreb-lubogoszcz",
-          "title": "525598 AU-005552 KOS.WO.260.7.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Lubogoszcz, gmina Grzmiąca, powiat szczecinecki, województwo zachodniopomorskie na dz. nr 92/19, obręb Lubogoszcz KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-08-12 11:30 2026-09-04 11:00 17 dni 2026-08-12 11:23 2026-08-12",
+          "title": "525598 AU-005552 KOS.WO.260.7.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Lubogoszcz, gmina Grzmiąca, powiat szczecinecki, województwo zachodniopomorskie na dz. nr 92/19, obręb Lubogoszcz KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-08-12 11:30 2026-09-04 11:00 16 dni 2026-08-12 11:23 2026-08-12",
           "confidence": 100
         }
       ],
@@ -4947,6 +4947,18 @@
     }
   ],
   "documents": [
+    {
+      "unit": "Centrala",
+      "title": "Centrala KOWR - Plan postępowań o udzielenie zamówień na rok 2026 - wersja nr 6 2026 _BZP _00122027 _06 _P.pdf 0.14MB",
+      "url": "https://www.gov.pl/attachment/023725ab-0946-47aa-af6a-01f1f19cc15c",
+      "year": 2026,
+      "version": 6,
+      "publication_date": "18.08.2026",
+      "bzp_number": "2026/BZP 00122027/06/P",
+      "city": "Warszawa",
+      "text_length": 47808,
+      "construction_items": 0
+    },
     {
       "unit": "Centrala",
       "title": "Centrala KOWR - Plan postępowań o udzielenie zamówień na rok 2026 - wersja nr 5 2026 _BZP _00122027 _05 _P.pdf 0.14MB",
