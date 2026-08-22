@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T08:11:43+00:00",
+    "generated_at": "2026-08-22T07:52:23+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -11,8 +11,8 @@
       "documents": 39,
       "value_net": 240043791749.23,
       "new_or_changed": 73,
-      "published": 24,
-      "past_due": 35,
+      "published": 25,
+      "past_due": 34,
       "expected_units": 18,
       "missing_units": 2
     },
@@ -1996,35 +1996,6 @@
       "status": "PO TERMINIE – BRAK OGŁOSZENIA"
     },
     {
-      "position": "1.1.8",
-      "subject": "Remont lokalu mieszkalnego w msc. Szropy-Śledziówka 1 m 4, gmina Stary Targ",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "80 000,00 PLN",
-      "value_net": 80000.0,
-      "planned_start": "I, II kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Pruszcz Gdański|2026|1.1.8",
-      "unit": "OT Pruszcz Gdański",
-      "year": 2026,
-      "plan_version": 4,
-      "plan_date": "29.07.2026",
-      "plan_bzp": "2026/BZP 00073603/04/P",
-      "plan_title": "OT Pruszcz Gdański - Plan postępowań o udzielenie zamówień publicznych w roku 2026 (aktualizacja 29-07-2026r) Plan _postępowań _- _aktualizacja _- _29072026r.pdf 0.06MB",
-      "plan_url": "https://www.gov.pl/attachment/027ff300-14ef-403f-a988-5fa6267968b5",
-      "previous_version": 3,
-      "location": "Szropy-Śledziówka 1 m 4, gmina Stary Targ",
-      "voivodeship": "pomorskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PO TERMINIE – BRAK OGŁOSZENIA",
-      "status": "PO TERMINIE – BRAK OGŁOSZENIA"
-    },
-    {
       "position": "1.1.3",
       "subject": "Wymiana pokrycia dachowego na budynkach: stodoła, magazyn zbożowy, obora w Lewinie Brzeskim",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
@@ -2792,7 +2763,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 60.7
         }
       ],
@@ -2937,7 +2908,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 84.2
         }
       ],
@@ -2972,7 +2943,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 80.2
         },
         {
@@ -3017,7 +2988,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 63.6
         }
       ],
@@ -3057,7 +3028,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 73.2
         }
       ],
@@ -3132,7 +3103,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 72.4
         }
       ],
@@ -3166,17 +3137,17 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "confidence": 76.1
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
           "title": "524469 AU-005524 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap Składanie ofert 2026-08-06 00:00 2026-07-29 14:29 2026-07-29 14:29",
           "confidence": 73.0
-        },
-        {
-          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
-          "confidence": 73.0
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3212,7 +3183,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 67.4
         }
       ],
@@ -3252,7 +3223,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 64.2
         }
       ],
@@ -3287,8 +3258,8 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
-          "confidence": 79.6
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "confidence": 76.5
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
@@ -3367,13 +3338,48 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
-          "confidence": 68.7
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "confidence": 67.3
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
           "title": "524469 AU-005524 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap Składanie ofert 2026-08-06 00:00 2026-07-29 14:29 2026-07-29 14:29",
           "confidence": 67.3
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.8",
+      "subject": "Remont lokalu mieszkalnego w msc. Szropy-Śledziówka 1 m 4, gmina Stary Targ",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "80 000,00 PLN",
+      "value_net": 80000.0,
+      "planned_start": "I, II kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Pruszcz Gdański|2026|1.1.8",
+      "unit": "OT Pruszcz Gdański",
+      "year": 2026,
+      "plan_version": 4,
+      "plan_date": "29.07.2026",
+      "plan_bzp": "2026/BZP 00073603/04/P",
+      "plan_title": "OT Pruszcz Gdański - Plan postępowań o udzielenie zamówień publicznych w roku 2026 (aktualizacja 29-07-2026r) Plan _postępowań _- _aktualizacja _- _29072026r.pdf 0.06MB",
+      "plan_url": "https://www.gov.pl/attachment/027ff300-14ef-403f-a988-5fa6267968b5",
+      "previous_version": 3,
+      "location": "Szropy-Śledziówka 1 m 4, gmina Stary Targ",
+      "voivodeship": "pomorskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "confidence": 62.3
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
@@ -3412,7 +3418,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 69.8
         }
       ],
@@ -3452,7 +3458,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 62.9
         }
       ],
@@ -3492,7 +3498,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 64.5
         }
       ],
@@ -3532,7 +3538,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 69.1
         }
       ],
@@ -3642,7 +3648,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 61.7
         }
       ],
@@ -4842,7 +4848,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 78.4
         }
       ],
@@ -4998,7 +5004,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
-          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 5 dni 2026-08-20 13:26 2026-08-20 13:26",
+          "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 4 dni 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 69.8
         }
       ],
