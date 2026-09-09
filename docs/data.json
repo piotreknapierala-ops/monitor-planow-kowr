@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T11:16:56+00:00",
+    "generated_at": "2026-09-09T11:20:32+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -11,8 +11,8 @@
       "documents": 42,
       "value_net": 240045675230.67,
       "new_or_changed": 67,
-      "published": 35,
-      "past_due": 28,
+      "published": 46,
+      "past_due": 27,
       "expected_units": 18,
       "missing_units": 3
     },
@@ -190,35 +190,6 @@
       "plan_url": "https://www.gov.pl/attachment/db25419a-49d4-40bb-ba48-cc2e499f70d3",
       "previous_version": null,
       "location": "Strzegom",
-      "voivodeship": "dolnośląskie",
-      "change_status": "NOWE",
-      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PO TERMINIE – BRAK OGŁOSZENIA",
-      "status": "NOWE"
-    },
-    {
-      "position": "1.1.16",
-      "subject": "Prace zabezpieczające budynki po rozbiórce stodoły sąsiadującej. Budynki w zespole pałacowym wpisanym do rejestru zabytków Wilczków, dz. 239/5 gm. Malczyce powiat średzki",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "700 000,00 PLN",
-      "value_net": 700000.0,
-      "planned_start": "II kwartał",
-      "additional_info": "Zamówienie jest odpowiednie dla MŚP: TAK Zamówienie strategiczne (zielone, społeczne, innowacyjne): NIE Zamówienie zastrzeżone: NIE Charakter zamówienia: zamówienia klasyczne",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 6,
-      "id": "OT Wrocław|2026|1.1.16",
-      "unit": "OT Wrocław",
-      "year": 2026,
-      "plan_version": 7,
-      "plan_date": "30.07.2026",
-      "plan_bzp": "2026/BZP 00110031/07/P",
-      "plan_title": "OT Wrocław - Plan postępowań o udzielenie zamówień publicznych 2026 (aktualizacja na dzień 30.07.2026) 2026 _BZP _00110031 _07 _P.pdf 0.09MB",
-      "plan_url": "https://www.gov.pl/attachment/db25419a-49d4-40bb-ba48-cc2e499f70d3",
-      "previous_version": null,
-      "location": "Malczyce powiat średzki",
       "voivodeship": "dolnośląskie",
       "change_status": "NOWE",
       "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
@@ -950,35 +921,6 @@
       "announcement_matches": [],
       "announcement_url": "",
       "timing_status": "PLANOWANE",
-      "status": "NOWE"
-    },
-    {
-      "position": "1.1.28",
-      "subject": "Remont lokalu mieszkalnego w msc. Łężyce, Al. Parku Krajobrazowego 31/2",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "85 960,75 PLN",
-      "value_net": 85960.75,
-      "planned_start": "III kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne",
-      "update_info": "dodana pozycja",
-      "threshold": "poniżej progów UE",
-      "page": 3,
-      "id": "OT Pruszcz Gdański|2026|1.1.28",
-      "unit": "OT Pruszcz Gdański",
-      "year": 2026,
-      "plan_version": 5,
-      "plan_date": "02.09.2026",
-      "plan_bzp": "2026/BZP 00073603/05/P",
-      "plan_title": "Plan postępowań o udzielenie zamówień publicznych w roku 2026 (aktualizacja 02-09-2026r) Plan _postępowań _- _aktualizacja _- _02092026r.pdf 0.05MB",
-      "plan_url": "https://www.gov.pl/attachment/799ced4f-9a09-4fd8-87d0-0470dc70396d",
-      "previous_version": 4,
-      "location": "Łężyce, Al. Parku Krajobrazowego 31/2",
-      "voivodeship": "pomorskie",
-      "change_status": "NOWE",
-      "change_detail": "dodana pozycja",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
       "status": "NOWE"
     },
     {
@@ -1736,122 +1678,6 @@
       "status": "ZBLIŻA SIĘ"
     },
     {
-      "position": "1.1.2",
-      "subject": "Remont dachu Wojcieszyce (wymiana pokrycia dachowego z azbestowego na blaszane)",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "325 200,00 PLN",
-      "value_net": 325200.0,
-      "planned_start": "II-III Kwartał",
-      "additional_info": "",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Gorzów Wielkopolski|2026|1.1.2",
-      "unit": "OT Gorzów Wielkopolski",
-      "year": 2026,
-      "plan_version": 4,
-      "plan_date": "20.08.2026",
-      "plan_bzp": "2026/BZP 00101768/04/P",
-      "plan_title": "OT Gorzów Wielkopolski - Plan postepowań o udzielenie zamówień na rok 2026 - Wersja 4 Plan _postępowań _o _udzielenie _zamówień _na _rok _2026 _- _Wersja _4.pdf 0.05MB",
-      "plan_url": "https://www.gov.pl/attachment/b1fdc9db-49bc-4b35-a187-030b61f962ed",
-      "previous_version": 3,
-      "location": "",
-      "voivodeship": "wielkopolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZBLIŻA SIĘ"
-    },
-    {
-      "position": "1.1.6",
-      "subject": "Wymiana pokrycia dachowego na budynku gospodarczym w Kalinowie",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
-      "value_text": "243 902,44 PLN",
-      "value_net": 243902.44,
-      "planned_start": "II-III kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Opole|2026|1.1.6",
-      "unit": "OT Opole",
-      "year": 2026,
-      "plan_version": 3,
-      "plan_date": "30.06.2026",
-      "plan_bzp": "2026/BZP 00114226/03/P",
-      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
-      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
-      "previous_version": 2,
-      "location": "Kalinowie",
-      "voivodeship": "opolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZBLIŻA SIĘ"
-    },
-    {
-      "position": "1.1.8",
-      "subject": "Wymiana pokrycia dachowego na magazynie zbożowym w Bąkowie",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
-      "value_text": "243 902,44 PLN",
-      "value_net": 243902.44,
-      "planned_start": "II-III kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 3,
-      "id": "OT Opole|2026|1.1.8",
-      "unit": "OT Opole",
-      "year": 2026,
-      "plan_version": 3,
-      "plan_date": "30.06.2026",
-      "plan_bzp": "2026/BZP 00114226/03/P",
-      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
-      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
-      "previous_version": 2,
-      "location": "Bąkowie",
-      "voivodeship": "opolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZBLIŻA SIĘ"
-    },
-    {
-      "position": "1.1.2",
-      "subject": "Wymiana pokrycia dachowego na magazynie zbożowym w GR Dzbańce",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
-      "value_text": "203 252,03 PLN",
-      "value_net": 203252.03,
-      "planned_start": "II-III kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Opole|2026|1.1.2",
-      "unit": "OT Opole",
-      "year": 2026,
-      "plan_version": 3,
-      "plan_date": "30.06.2026",
-      "plan_bzp": "2026/BZP 00114226/03/P",
-      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
-      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
-      "previous_version": 2,
-      "location": "GR Dzbańce",
-      "voivodeship": "opolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZBLIŻA SIĘ"
-    },
-    {
       "position": "1.1.3",
       "subject": "Remont pokrycia dachowego budynków gospodarczych Zatonie",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -1901,35 +1727,6 @@
       "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
       "previous_version": 2,
       "location": "Ściborzycach Wielkich",
-      "voivodeship": "opolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZBLIŻA SIĘ"
-    },
-    {
-      "position": "1.1.4",
-      "subject": "Wymiana pokrycia dachowego na suszarni chmielu w Paczkowie",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
-      "value_text": "166 666,67 PLN",
-      "value_net": 166666.67,
-      "planned_start": "II-III kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Opole|2026|1.1.4",
-      "unit": "OT Opole",
-      "year": 2026,
-      "plan_version": 3,
-      "plan_date": "30.06.2026",
-      "plan_bzp": "2026/BZP 00114226/03/P",
-      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
-      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
-      "previous_version": 2,
-      "location": "Paczkowie",
       "voivodeship": "opolskie",
       "change_status": "BEZ ZMIAN",
       "change_detail": "",
@@ -2142,64 +1939,6 @@
       "status": "ZBLIŻA SIĘ"
     },
     {
-      "position": "1.1.16",
-      "subject": "Remont lokalu mieszkalnego Lubiszynek Pierwszy 7 m. 4, obręb Jeziernik, gmina Ostaszewo",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "41 000,00 PLN",
-      "value_net": 41000.0,
-      "planned_start": "II, III kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Pruszcz Gdański|2026|1.1.16",
-      "unit": "OT Pruszcz Gdański",
-      "year": 2026,
-      "plan_version": 5,
-      "plan_date": "02.09.2026",
-      "plan_bzp": "2026/BZP 00073603/05/P",
-      "plan_title": "Plan postępowań o udzielenie zamówień publicznych w roku 2026 (aktualizacja 02-09-2026r) Plan _postępowań _- _aktualizacja _- _02092026r.pdf 0.05MB",
-      "plan_url": "https://www.gov.pl/attachment/799ced4f-9a09-4fd8-87d0-0470dc70396d",
-      "previous_version": 4,
-      "location": "4, obręb Jeziernik, gmina Ostaszewo",
-      "voivodeship": "pomorskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZBLIŻA SIĘ"
-    },
-    {
-      "position": "1.1.7",
-      "subject": "Wymiana pokrycia dachowego na budynku gospodarczym w Grudyni Wielkiej",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
-      "value_text": "40 650,41 PLN",
-      "value_net": 40650.41,
-      "planned_start": "II-III kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 3,
-      "id": "OT Opole|2026|1.1.7",
-      "unit": "OT Opole",
-      "year": 2026,
-      "plan_version": 3,
-      "plan_date": "30.06.2026",
-      "plan_bzp": "2026/BZP 00114226/03/P",
-      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
-      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
-      "previous_version": 2,
-      "location": "Grudyni Wielkiej",
-      "voivodeship": "opolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZBLIŻA SIĘ"
-    },
-    {
       "position": "1.1.14",
       "subject": "Rozbiórka chlewni w Kalinowie",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
@@ -2220,35 +1959,6 @@
       "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
       "previous_version": 2,
       "location": "Kalinowie",
-      "voivodeship": "opolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZBLIŻA SIĘ"
-    },
-    {
-      "position": "1.1.5",
-      "subject": "Wymiana pokrycia dachowego na garażu w Wierzbniku",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
-      "value_text": "32 520,33 PLN",
-      "value_net": 32520.33,
-      "planned_start": "II-III kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Opole|2026|1.1.5",
-      "unit": "OT Opole",
-      "year": 2026,
-      "plan_version": 3,
-      "plan_date": "30.06.2026",
-      "plan_bzp": "2026/BZP 00114226/03/P",
-      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
-      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
-      "previous_version": 2,
-      "location": "Wierzbniku",
       "voivodeship": "opolskie",
       "change_status": "BEZ ZMIAN",
       "change_detail": "",
@@ -2349,6 +2059,11 @@
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525598/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-lubogoszcz-gmina-grzmiaca-powiat-szczecinecki-wojewodztwo-zachodniopomorskie-na-dz-nr-92-19-obreb-lubogoszcz",
           "title": "525598 AU-005552 KOS.WO.260.7.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Lubogoszcz, gmina Grzmiąca, powiat szczecinecki, województwo zachodniopomorskie na dz. nr 92/19, obręb Lubogoszcz KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-08-12 11:30 2026-09-04 11:00 14 dni 2026-08-12 11:23 2026-08-12",
           "confidence": 100
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529052/wykonanie-robot-zabezpieczajacych-budynki-po-wykonaniu-rozbiorki-stodoly-sasiadujacej-z-tymi-budynkami-w-wilczkowie-na-dzialce-nr-239-5-gm-malczyce",
+          "title": "529052 AU-005621 WRO.WO.260.22.2026 Wykonanie robót zabezpieczających budynki po wykonaniu rozbiórki stodoły sąsiadującej z tymi budynkami w Wilczkowie na działce nr 239/5, gm. Malczyce KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-08 14:30 2026-09-23 10:00 13 dni 2026-09-08 14:22 2026-09-08 14:22",
+          "confidence": 100
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525568/inwentaryzacja-architektoniczno-budowlana-z-opisanymi-fotografiami-elewacji-i-elementow-konstrukcji-dachy-stropy-wybrane-detale-budynku-spichlerza-i-obory-wraz-z-projektem-rozbiorki-dodatkowo-kosztorys-rozbiorki-wszystkich-budynkow-znajdujacych-sie",
@@ -2427,6 +2142,41 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524223/wymiana-stolarki-okiennej-wraz-z-montazem-rolet-i-nakladek-na-parapety-w-sekcji-zamiejscowej-kowr-w-suwalkach",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.16",
+      "subject": "Prace zabezpieczające budynki po rozbiórce stodoły sąsiadującej. Budynki w zespole pałacowym wpisanym do rejestru zabytków Wilczków, dz. 239/5 gm. Malczyce powiat średzki",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "700 000,00 PLN",
+      "value_net": 700000.0,
+      "planned_start": "II kwartał",
+      "additional_info": "Zamówienie jest odpowiednie dla MŚP: TAK Zamówienie strategiczne (zielone, społeczne, innowacyjne): NIE Zamówienie zastrzeżone: NIE Charakter zamówienia: zamówienia klasyczne",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 6,
+      "id": "OT Wrocław|2026|1.1.16",
+      "unit": "OT Wrocław",
+      "year": 2026,
+      "plan_version": 7,
+      "plan_date": "30.07.2026",
+      "plan_bzp": "2026/BZP 00110031/07/P",
+      "plan_title": "OT Wrocław - Plan postępowań o udzielenie zamówień publicznych 2026 (aktualizacja na dzień 30.07.2026) 2026 _BZP _00110031 _07 _P.pdf 0.09MB",
+      "plan_url": "https://www.gov.pl/attachment/db25419a-49d4-40bb-ba48-cc2e499f70d3",
+      "previous_version": null,
+      "location": "Malczyce powiat średzki",
+      "voivodeship": "dolnośląskie",
+      "change_status": "NOWE",
+      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529052/wykonanie-robot-zabezpieczajacych-budynki-po-wykonaniu-rozbiorki-stodoly-sasiadujacej-z-tymi-budynkami-w-wilczkowie-na-dzialce-nr-239-5-gm-malczyce",
+          "title": "529052 AU-005621 WRO.WO.260.22.2026 Wykonanie robót zabezpieczających budynki po wykonaniu rozbiórki stodoły sąsiadującej z tymi budynkami w Wilczkowie na działce nr 239/5, gm. Malczyce KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-08 14:30 2026-09-23 10:00 13 dni 2026-09-08 14:22 2026-09-08 14:22",
+          "confidence": 64.8
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529052/wykonanie-robot-zabezpieczajacych-budynki-po-wykonaniu-rozbiorki-stodoly-sasiadujacej-z-tymi-budynkami-w-wilczkowie-na-dzialce-nr-239-5-gm-malczyce",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -2606,6 +2356,41 @@
       "status": "OPUBLIKOWANE"
     },
     {
+      "position": "1.1.2",
+      "subject": "Remont dachu Wojcieszyce (wymiana pokrycia dachowego z azbestowego na blaszane)",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "325 200,00 PLN",
+      "value_net": 325200.0,
+      "planned_start": "II-III Kwartał",
+      "additional_info": "",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Gorzów Wielkopolski|2026|1.1.2",
+      "unit": "OT Gorzów Wielkopolski",
+      "year": 2026,
+      "plan_version": 4,
+      "plan_date": "20.08.2026",
+      "plan_bzp": "2026/BZP 00101768/04/P",
+      "plan_title": "OT Gorzów Wielkopolski - Plan postepowań o udzielenie zamówień na rok 2026 - Wersja 4 Plan _postępowań _o _udzielenie _zamówień _na _rok _2026 _- _Wersja _4.pdf 0.05MB",
+      "plan_url": "https://www.gov.pl/attachment/b1fdc9db-49bc-4b35-a187-030b61f962ed",
+      "previous_version": 3,
+      "location": "",
+      "voivodeship": "wielkopolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+          "title": "529083 AU-005623 SZC.WO.260.11.2026 Wymiana pokrycia dachowego budynku mieszkalnego zlokalizowanego na dz. nr 152/1 obr. Stary Klukom, gm. Choszczno - postępowanie nr 2 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-09-09 09:00 2026-09-25 09:00 15 dni 2026-09-09 08:05 2026-09-09 08:05",
+          "confidence": 60.7
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
       "position": "1.1.10",
       "subject": "Remont lokalu mieszkalnego w miejscowości Waćmierek 1/2, gmina Tczew",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -2631,6 +2416,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 98.5
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-08-27 00:00 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 84.2
@@ -2641,7 +2431,42 @@
           "confidence": 84.2
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.1",
+      "subject": "Wymiana pokrycia dachowego na bydynku Archiwum Prym Tys.",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "290 000,00 PLN",
+      "value_net": 290000.0,
+      "planned_start": "I-II kw.",
+      "additional_info": "",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Warszawa|2026|1.1.1",
+      "unit": "OT Warszawa",
+      "year": 2026,
+      "plan_version": 2,
+      "plan_date": "27.03.2026",
+      "plan_bzp": "2026/BZP 00125060/02/P",
+      "plan_title": "OT Warszawa - Plan postępowań o udzielenie zamówień na rok 2026 - Korekta 1 Plan _postępowań _o _udzielenie _zamówienia _- _aktualizacja _(2).pdf 0.05MB",
+      "plan_url": "https://www.gov.pl/attachment/c6ab34b1-3302-45ef-b6b4-b0e656aea84f",
+      "previous_version": 1,
+      "location": "",
+      "voivodeship": "mazowieckie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+          "title": "529083 AU-005623 SZC.WO.260.11.2026 Wymiana pokrycia dachowego budynku mieszkalnego zlokalizowanego na dz. nr 152/1 obr. Stary Klukom, gm. Choszczno - postępowanie nr 2 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-09-09 09:00 2026-09-25 09:00 15 dni 2026-09-09 08:05 2026-09-09 08:05",
+          "confidence": 75.0
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -2677,6 +2502,76 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/527259/rozbiorka-budynku-gospodarczego-zlokalizowanego-w-miejscowosci-ustronie-dz-nr-35-15-gm-lubin-powiat-lubinski",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.6",
+      "subject": "Wymiana pokrycia dachowego na budynku gospodarczym w Kalinowie",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
+      "value_text": "243 902,44 PLN",
+      "value_net": 243902.44,
+      "planned_start": "II-III kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Opole|2026|1.1.6",
+      "unit": "OT Opole",
+      "year": 2026,
+      "plan_version": 3,
+      "plan_date": "30.06.2026",
+      "plan_bzp": "2026/BZP 00114226/03/P",
+      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
+      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
+      "previous_version": 2,
+      "location": "Kalinowie",
+      "voivodeship": "opolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+          "title": "529083 AU-005623 SZC.WO.260.11.2026 Wymiana pokrycia dachowego budynku mieszkalnego zlokalizowanego na dz. nr 152/1 obr. Stary Klukom, gm. Choszczno - postępowanie nr 2 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-09-09 09:00 2026-09-25 09:00 15 dni 2026-09-09 08:05 2026-09-09 08:05",
+          "confidence": 80.7
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.8",
+      "subject": "Wymiana pokrycia dachowego na magazynie zbożowym w Bąkowie",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
+      "value_text": "243 902,44 PLN",
+      "value_net": 243902.44,
+      "planned_start": "II-III kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 3,
+      "id": "OT Opole|2026|1.1.8",
+      "unit": "OT Opole",
+      "year": 2026,
+      "plan_version": 3,
+      "plan_date": "30.06.2026",
+      "plan_bzp": "2026/BZP 00114226/03/P",
+      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
+      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
+      "previous_version": 2,
+      "location": "Bąkowie",
+      "voivodeship": "opolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+          "title": "529083 AU-005623 SZC.WO.260.11.2026 Wymiana pokrycia dachowego budynku mieszkalnego zlokalizowanego na dz. nr 152/1 obr. Stary Klukom, gm. Choszczno - postępowanie nr 2 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-09-09 09:00 2026-09-25 09:00 15 dni 2026-09-09 08:05 2026-09-09 08:05",
+          "confidence": 72.7
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -2717,6 +2612,41 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.2",
+      "subject": "Wymiana pokrycia dachowego na magazynie zbożowym w GR Dzbańce",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
+      "value_text": "203 252,03 PLN",
+      "value_net": 203252.03,
+      "planned_start": "II-III kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Opole|2026|1.1.2",
+      "unit": "OT Opole",
+      "year": 2026,
+      "plan_version": 3,
+      "plan_date": "30.06.2026",
+      "plan_bzp": "2026/BZP 00114226/03/P",
+      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
+      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
+      "previous_version": 2,
+      "location": "GR Dzbańce",
+      "voivodeship": "opolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+          "title": "529083 AU-005623 SZC.WO.260.11.2026 Wymiana pokrycia dachowego budynku mieszkalnego zlokalizowanego na dz. nr 152/1 obr. Stary Klukom, gm. Choszczno - postępowanie nr 2 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-09-09 09:00 2026-09-25 09:00 15 dni 2026-09-09 08:05 2026-09-09 08:05",
+          "confidence": 70.4
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -2831,6 +2761,41 @@
       "status": "OPUBLIKOWANE"
     },
     {
+      "position": "1.1.4",
+      "subject": "Wymiana pokrycia dachowego na suszarni chmielu w Paczkowie",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
+      "value_text": "166 666,67 PLN",
+      "value_net": 166666.67,
+      "planned_start": "II-III kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Opole|2026|1.1.4",
+      "unit": "OT Opole",
+      "year": 2026,
+      "plan_version": 3,
+      "plan_date": "30.06.2026",
+      "plan_bzp": "2026/BZP 00114226/03/P",
+      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
+      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
+      "previous_version": 2,
+      "location": "Paczkowie",
+      "voivodeship": "opolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+          "title": "529083 AU-005623 SZC.WO.260.11.2026 Wymiana pokrycia dachowego budynku mieszkalnego zlokalizowanego na dz. nr 152/1 obr. Stary Klukom, gm. Choszczno - postępowanie nr 2 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-09-09 09:00 2026-09-25 09:00 15 dni 2026-09-09 08:05 2026-09-09 08:05",
+          "confidence": 72.7
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
       "position": "1.1.12",
       "subject": "Budowa zbiorników bezodpływowych",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -2891,6 +2856,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 87.4
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-08-27 00:00 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 73.2
@@ -2906,7 +2876,7 @@
           "confidence": 60.6
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -2971,6 +2941,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 90.0
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
           "title": "524469 AU-005524 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap Składanie ofert 2026-08-06 00:00 2026-07-29 14:29 2026-07-29 14:29",
           "confidence": 72.4
@@ -2981,7 +2956,7 @@
           "confidence": 72.4
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3011,6 +2986,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 76.2
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-08-27 00:00 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 73.0
@@ -3021,7 +3001,7 @@
           "confidence": 73.0
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3051,6 +3031,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 84.7
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-08-27 00:00 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 67.4
@@ -3061,7 +3046,7 @@
           "confidence": 67.4
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3091,6 +3076,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 79.9
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-08-27 00:00 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 64.2
@@ -3101,7 +3091,7 @@
           "confidence": 64.2
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3139,6 +3129,11 @@
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
           "title": "524469 AU-005524 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap Składanie ofert 2026-08-06 00:00 2026-07-29 14:29 2026-07-29 14:29",
           "confidence": 76.5
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 71.5
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
@@ -3226,6 +3221,41 @@
       "status": "OPUBLIKOWANE"
     },
     {
+      "position": "1.1.28",
+      "subject": "Remont lokalu mieszkalnego w msc. Łężyce, Al. Parku Krajobrazowego 31/2",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "85 960,75 PLN",
+      "value_net": 85960.75,
+      "planned_start": "III kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne",
+      "update_info": "dodana pozycja",
+      "threshold": "poniżej progów UE",
+      "page": 3,
+      "id": "OT Pruszcz Gdański|2026|1.1.28",
+      "unit": "OT Pruszcz Gdański",
+      "year": 2026,
+      "plan_version": 5,
+      "plan_date": "02.09.2026",
+      "plan_bzp": "2026/BZP 00073603/05/P",
+      "plan_title": "Plan postępowań o udzielenie zamówień publicznych w roku 2026 (aktualizacja 02-09-2026r) Plan _postępowań _- _aktualizacja _- _02092026r.pdf 0.05MB",
+      "plan_url": "https://www.gov.pl/attachment/799ced4f-9a09-4fd8-87d0-0470dc70396d",
+      "previous_version": 4,
+      "location": "Łężyce, Al. Parku Krajobrazowego 31/2",
+      "voivodeship": "pomorskie",
+      "change_status": "NOWE",
+      "change_detail": "dodana pozycja",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 100
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
       "position": "1.1.8",
       "subject": "Remont lokalu mieszkalnego w msc. Szropy-Śledziówka 1 m 4, gmina Stary Targ",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -3251,12 +3281,17 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 75.6
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-08-20 13:30 2026-08-27 00:00 1 dzień 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 62.3
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3286,6 +3321,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 87.3
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-08-27 00:00 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 69.8
@@ -3296,7 +3336,7 @@
           "confidence": 69.8
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3326,6 +3366,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 70.9
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-08-27 00:00 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 62.9
@@ -3336,7 +3381,7 @@
           "confidence": 62.9
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3401,6 +3446,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 81.6
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
           "title": "526955 AU-005581 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki - II postępowanie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-08-27 00:00 2026-08-20 13:26 2026-08-20 13:26",
           "confidence": 64.5
@@ -3411,7 +3461,7 @@
           "confidence": 64.5
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3441,6 +3491,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 85.9
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
           "title": "524469 AU-005524 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap Składanie ofert 2026-08-06 00:00 2026-07-29 14:29 2026-07-29 14:29",
           "confidence": 69.1
@@ -3451,7 +3506,77 @@
           "confidence": 69.1
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.16",
+      "subject": "Remont lokalu mieszkalnego Lubiszynek Pierwszy 7 m. 4, obręb Jeziernik, gmina Ostaszewo",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "41 000,00 PLN",
+      "value_net": 41000.0,
+      "planned_start": "II, III kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Pruszcz Gdański|2026|1.1.16",
+      "unit": "OT Pruszcz Gdański",
+      "year": 2026,
+      "plan_version": 5,
+      "plan_date": "02.09.2026",
+      "plan_bzp": "2026/BZP 00073603/05/P",
+      "plan_title": "Plan postępowań o udzielenie zamówień publicznych w roku 2026 (aktualizacja 02-09-2026r) Plan _postępowań _- _aktualizacja _- _02092026r.pdf 0.05MB",
+      "plan_url": "https://www.gov.pl/attachment/799ced4f-9a09-4fd8-87d0-0470dc70396d",
+      "previous_version": 4,
+      "location": "4, obręb Jeziernik, gmina Ostaszewo",
+      "voivodeship": "pomorskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 67.2
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.7",
+      "subject": "Wymiana pokrycia dachowego na budynku gospodarczym w Grudyni Wielkiej",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
+      "value_text": "40 650,41 PLN",
+      "value_net": 40650.41,
+      "planned_start": "II-III kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 3,
+      "id": "OT Opole|2026|1.1.7",
+      "unit": "OT Opole",
+      "year": 2026,
+      "plan_version": 3,
+      "plan_date": "30.06.2026",
+      "plan_bzp": "2026/BZP 00114226/03/P",
+      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
+      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
+      "previous_version": 2,
+      "location": "Grudyni Wielkiej",
+      "voivodeship": "opolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+          "title": "529083 AU-005623 SZC.WO.260.11.2026 Wymiana pokrycia dachowego budynku mieszkalnego zlokalizowanego na dz. nr 152/1 obr. Stary Klukom, gm. Choszczno - postępowanie nr 2 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-09-09 09:00 2026-09-25 09:00 15 dni 2026-09-09 08:05 2026-09-09 08:05",
+          "confidence": 75.8
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3487,6 +3612,41 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/527259/rozbiorka-budynku-gospodarczego-zlokalizowanego-w-miejscowosci-ustronie-dz-nr-35-15-gm-lubin-powiat-lubinski",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.5",
+      "subject": "Wymiana pokrycia dachowego na garażu w Wierzbniku",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
+      "value_text": "32 520,33 PLN",
+      "value_net": 32520.33,
+      "planned_start": "II-III kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Opole|2026|1.1.5",
+      "unit": "OT Opole",
+      "year": 2026,
+      "plan_version": 3,
+      "plan_date": "30.06.2026",
+      "plan_bzp": "2026/BZP 00114226/03/P",
+      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 30.06.2026r zmiana _2 _30062026 _BZP _00114226 _03 _P.pdf 0.06MB",
+      "plan_url": "https://www.gov.pl/attachment/6fe0f745-5492-449f-b449-8ca6b64ab6e6",
+      "previous_version": 2,
+      "location": "Wierzbniku",
+      "voivodeship": "opolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+          "title": "529083 AU-005623 SZC.WO.260.11.2026 Wymiana pokrycia dachowego budynku mieszkalnego zlokalizowanego na dz. nr 152/1 obr. Stary Klukom, gm. Choszczno - postępowanie nr 2 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-09-09 09:00 2026-09-25 09:00 15 dni 2026-09-09 08:05 2026-09-09 08:05",
+          "confidence": 80.4
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3621,6 +3781,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+          "title": "529174 AU-005627 PRU.WO.260.16.2026 KOWR OT Pruszcz Gdański - „Remont lokalu mieszkalnego nr 2 położonego przy ul. Aleja Parku Krajobrazowego 31 w miejscowości Łężyce, gmina Wejherowo, województwo. pomorskie” KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-09 13:15 2026-09-25 09:00 15 dni 2026-09-09 13:05 2026-09-09 13:05",
+          "confidence": 85.6
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
           "title": "524469 AU-005524 WRO.WBiGM.21.84.2026.BK Remont lokalu mieszkalnego w zakresie wydzielenia pomieszczenia łazienki wraz z wentylacją, zlokalizowanego w miejscowości Pątnów Legnicki przy ul. Gańczarska 2/2, dz. nr 458/30, gm. Kunice, powiat legnicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap Składanie ofert 2026-08-06 00:00 2026-07-29 14:29 2026-07-29 14:29",
           "confidence": 61.7
@@ -3631,7 +3796,7 @@
           "confidence": 61.7
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524469/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3917,35 +4082,6 @@
       "plan_url": "https://www.gov.pl/attachment/c6ab34b1-3302-45ef-b6b4-b0e656aea84f",
       "previous_version": 1,
       "location": "Grobickiego 20, Piastów-dwór",
-      "voivodeship": "mazowieckie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PLANOWANE",
-      "status": "PLANOWANE"
-    },
-    {
-      "position": "1.1.1",
-      "subject": "Wymiana pokrycia dachowego na bydynku Archiwum Prym Tys.",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "290 000,00 PLN",
-      "value_net": 290000.0,
-      "planned_start": "I-II kw.",
-      "additional_info": "",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Warszawa|2026|1.1.1",
-      "unit": "OT Warszawa",
-      "year": 2026,
-      "plan_version": 2,
-      "plan_date": "27.03.2026",
-      "plan_bzp": "2026/BZP 00125060/02/P",
-      "plan_title": "OT Warszawa - Plan postępowań o udzielenie zamówień na rok 2026 - Korekta 1 Plan _postępowań _o _udzielenie _zamówienia _- _aktualizacja _(2).pdf 0.05MB",
-      "plan_url": "https://www.gov.pl/attachment/c6ab34b1-3302-45ef-b6b4-b0e656aea84f",
-      "previous_version": 1,
-      "location": "",
       "voivodeship": "mazowieckie",
       "change_status": "BEZ ZMIAN",
       "change_detail": "",
@@ -4974,6 +5110,11 @@
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/527259/rozbiorka-budynku-gospodarczego-zlokalizowanego-w-miejscowosci-ustronie-dz-nr-35-15-gm-lubin-powiat-lubinski",
           "title": "527259 AU-005586 WRO.WBiGM.4272.25.2026.BK Rozbiórka budynku gospodarczego zlokalizowanego w miejscowości Ustronie, dz. nr 35/15, gm. Lubin, powiat lubiński. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap Składanie ofert 2026-08-31 00:00 2026-08-24 14:22 2026-08-24 14:22",
+          "confidence": 76.0
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529114/rozbiorka-nieuzytkowanego-budynku-hydroforni-w-m-katna-gm-dlugoleka-dz-nr-237-61",
+          "title": "529114 AU-005624 WRO.WBiGM.261.28.2026.HB Rozbiórka nieużytkowanego budynku hydroforni w m. Kątna, gm. Długołęka, dz. nr 237/61. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-09-09 10:00 2026-09-16 09:00 6 dni 2026-09-09 09:45 2026-09-09 09:45",
           "confidence": 76.0
         }
       ],
