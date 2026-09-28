@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T12:02:14+00:00",
+    "generated_at": "2026-09-28T13:51:08+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -11,7 +11,7 @@
       "documents": 48,
       "value_net": 45506449.66,
       "new_or_changed": 77,
-      "published": 45,
+      "published": 48,
       "past_due": 24,
       "expected_units": 18,
       "missing_units": 3
@@ -402,35 +402,6 @@
       "status": "NOWE"
     },
     {
-      "position": "1.1.5",
-      "subject": "Roboty budowlane w Gospodarstwie Rolnym w Orłów Parcel",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "420 000,00 PLN",
-      "value_net": 420000.0,
-      "planned_start": "III kwartał",
-      "additional_info": "",
-      "update_info": "dodana pozycja",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Łódź|2026|1.1.5",
-      "unit": "OT Łódź",
-      "year": 2026,
-      "plan_version": 2,
-      "plan_date": "02.09.2026",
-      "plan_bzp": "2026/BZP 00231231/02/P",
-      "plan_title": "OT Łódź - plan postępowań o dzielenie zamówień publicznych w roku 2026 - aktualizacja 02.09.2026 OT _Łódź _- _plan _postępowań _o _udzielenie _zamówień _publicznych _w _roku _2026 _aktualizacja _02092026.pdf 0.04MB",
-      "plan_url": "https://www.gov.pl/attachment/0381f566-b4c6-4a1f-bc6e-e0481c07c8bb",
-      "previous_version": 1,
-      "location": "Gospodarstwie Rolnym w Orłów Parcel",
-      "voivodeship": "łódzkie",
-      "change_status": "NOWE",
-      "change_detail": "dodana pozycja",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "NOWE"
-    },
-    {
       "position": "1.1.6",
       "subject": "Wmiana eternitowego pokrycia dachu na budynku gospodarczym Goscisław, dz. 282/12 i 282/13",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -454,35 +425,6 @@
       "voivodeship": "dolnośląskie",
       "change_status": "NOWE",
       "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "NOWE"
-    },
-    {
-      "position": "1.1.6",
-      "subject": "Roboty budowlane w Gospodarstwie Rolnym w Borów",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "345 000,00 PLN",
-      "value_net": 345000.0,
-      "planned_start": "IV kwartał",
-      "additional_info": "",
-      "update_info": "dodana pozycja",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Łódź|2026|1.1.6",
-      "unit": "OT Łódź",
-      "year": 2026,
-      "plan_version": 2,
-      "plan_date": "02.09.2026",
-      "plan_bzp": "2026/BZP 00231231/02/P",
-      "plan_title": "OT Łódź - plan postępowań o dzielenie zamówień publicznych w roku 2026 - aktualizacja 02.09.2026 OT _Łódź _- _plan _postępowań _o _udzielenie _zamówień _publicznych _w _roku _2026 _aktualizacja _02092026.pdf 0.04MB",
-      "plan_url": "https://www.gov.pl/attachment/0381f566-b4c6-4a1f-bc6e-e0481c07c8bb",
-      "previous_version": 1,
-      "location": "Gospodarstwie Rolnym w Borów",
-      "voivodeship": "łódzkie",
-      "change_status": "NOWE",
-      "change_detail": "dodana pozycja",
       "announcement_matches": [],
       "announcement_url": "",
       "timing_status": "ZBLIŻA SIĘ",
@@ -1620,35 +1562,6 @@
       "status": "ZMIANA"
     },
     {
-      "position": "1.1.4",
-      "subject": "Roboty ogolnobudowlane w Gospodarstwie Rolnym w Maslowicach",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "317073,17 PLN 725 000,00 PLN",
-      "value_net": null,
-      "planned_start": "II kwartał IV kwartał",
-      "additional_info": "",
-      "update_info": "zmiana pozycji",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Łódź|2026|1.1.4",
-      "unit": "OT Łódź",
-      "year": 2026,
-      "plan_version": 2,
-      "plan_date": "02.09.2026",
-      "plan_bzp": "2026/BZP 00231231/02/P",
-      "plan_title": "OT Łódź - plan postępowań o dzielenie zamówień publicznych w roku 2026 - aktualizacja 02.09.2026 OT _Łódź _- _plan _postępowań _o _udzielenie _zamówień _publicznych _w _roku _2026 _aktualizacja _02092026.pdf 0.04MB",
-      "plan_url": "https://www.gov.pl/attachment/0381f566-b4c6-4a1f-bc6e-e0481c07c8bb",
-      "previous_version": 1,
-      "location": "Gospodarstwie Rolnym w Maslowicach",
-      "voivodeship": "łódzkie",
-      "change_status": "ZMIANA",
-      "change_detail": "zmiana pozycji",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
-      "status": "ZMIANA"
-    },
-    {
       "position": "1.1.6",
       "subject": "Rozbiórka 4 obiektów budowlanych - budynki 4 chlewni - Wójcin, gmina Jeziora Wielkie, powiat mogileński",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -1849,7 +1762,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/530312/remont-termomodernizacyjny-budynku-kowr-ot-we-wroclawiu-przy-ul-minskiej-60-w-zakresie-wymiany-pokrycia-dachowego-wraz-z-wymiana-instalacji-odgromowej",
-          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 4 dni 2026-09-17 14:56 2026-09-17 14:51",
+          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 3 dni 2026-09-17 14:56 2026-09-17 14:51",
           "confidence": 98.9
         }
       ],
@@ -2089,6 +2002,41 @@
     },
     {
       "position": "1.1.5",
+      "subject": "Roboty budowlane w Gospodarstwie Rolnym w Orłów Parcel",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "420 000,00 PLN",
+      "value_net": 420000.0,
+      "planned_start": "III kwartał",
+      "additional_info": "",
+      "update_info": "dodana pozycja",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Łódź|2026|1.1.5",
+      "unit": "OT Łódź",
+      "year": 2026,
+      "plan_version": 2,
+      "plan_date": "02.09.2026",
+      "plan_bzp": "2026/BZP 00231231/02/P",
+      "plan_title": "OT Łódź - plan postępowań o dzielenie zamówień publicznych w roku 2026 - aktualizacja 02.09.2026 OT _Łódź _- _plan _postępowań _o _udzielenie _zamówień _publicznych _w _roku _2026 _aktualizacja _02092026.pdf 0.04MB",
+      "plan_url": "https://www.gov.pl/attachment/0381f566-b4c6-4a1f-bc6e-e0481c07c8bb",
+      "previous_version": 1,
+      "location": "Gospodarstwie Rolnym w Orłów Parcel",
+      "voivodeship": "łódzkie",
+      "change_status": "NOWE",
+      "change_detail": "dodana pozycja",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 20 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "confidence": 100
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.5",
       "subject": "Rozbiórka budynku gospodarczego nr 1 wraz z zabezpieczeniem budynku gospodarczego nr 2 - Bralewnica, gmina Kęsowo, powiat tucholski",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
       "value_text": "402 335,76 PLN",
@@ -2149,7 +2097,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/530312/remont-termomodernizacyjny-budynku-kowr-ot-we-wroclawiu-przy-ul-minskiej-60-w-zakresie-wymiany-pokrycia-dachowego-wraz-z-wymiana-instalacji-odgromowej",
-          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 4 dni 2026-09-17 14:56 2026-09-17 14:51",
+          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 3 dni 2026-09-17 14:56 2026-09-17 14:51",
           "confidence": 86.5
         }
       ],
@@ -2193,6 +2141,41 @@
       "status": "OPUBLIKOWANE"
     },
     {
+      "position": "1.1.6",
+      "subject": "Roboty budowlane w Gospodarstwie Rolnym w Borów",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "345 000,00 PLN",
+      "value_net": 345000.0,
+      "planned_start": "IV kwartał",
+      "additional_info": "",
+      "update_info": "dodana pozycja",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Łódź|2026|1.1.6",
+      "unit": "OT Łódź",
+      "year": 2026,
+      "plan_version": 2,
+      "plan_date": "02.09.2026",
+      "plan_bzp": "2026/BZP 00231231/02/P",
+      "plan_title": "OT Łódź - plan postępowań o dzielenie zamówień publicznych w roku 2026 - aktualizacja 02.09.2026 OT _Łódź _- _plan _postępowań _o _udzielenie _zamówień _publicznych _w _roku _2026 _aktualizacja _02092026.pdf 0.04MB",
+      "plan_url": "https://www.gov.pl/attachment/0381f566-b4c6-4a1f-bc6e-e0481c07c8bb",
+      "previous_version": 1,
+      "location": "Gospodarstwie Rolnym w Borów",
+      "voivodeship": "łódzkie",
+      "change_status": "NOWE",
+      "change_detail": "dodana pozycja",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 20 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "confidence": 100
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
       "position": "1.1.20",
       "subject": "Remont zachowawczy budynku mieszkalnego wielorodzinnego (dawny pałac) wpisanego do rejestru zabytków pod nr A-3355/794/L znajdującego się w miejscowości Sobolew, gm. Wądroże Wielkie, powiat jaworski",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -2229,8 +2212,8 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531333/remont-zachowawczy-kamiennego-muru-ogrodzenia-wpisanego-do-rejestru-zabytkow-pod-nr-a-4714-1363-wl-z-dnia-03-03-1992-r-dz-nr-594-2-ob-stanowice-gm-strzegom-pow-swidnicki-2",
-          "title": "531333 AU-005665 WRO.WBiGM.21.90.2026.MC1/3 Remont zachowawczy kamiennego muru ogrodzenia wpisanego do rejestru zabytków pod nr A/4714/1363/Wł z dnia 03.03.1992 r. Dz. nr 594/2 ob. Stanowice, gm. Strzegom, pow. świdnicki. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap RFI/składanie wniosków/negocjacje wstępne 2026-09-25 09:00 2026-10-02 08:00 4 dni 2026-09-25 08:54 2026-09-25 08:54",
-          "confidence": 65.4
+          "title": "531333 AU-005665 WRO.WBiGM.21.90.2026.MC1/3 Remont zachowawczy kamiennego muru ogrodzenia wpisanego do rejestru zabytków pod nr A/4714/1363/Wł z dnia 03.03.1992 r. Dz. nr 594/2 ob. Stanowice, gm. Strzegom, pow. świdnicki. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap RFI/składanie wniosków/negocjacje wstępne 2026-09-25 09:00 2026-10-02 08:00 3 dni 2026-09-25 08:54 2026-09-25 08:54",
+          "confidence": 65.6
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529566/remont-zachowawczy-kamiennego-muru-ogrodzenia-wpisanego-do-rejestru-zabytkow-pod-nr-a-4714-1363-wl-z-dnia-03-03-1992-r-dz-nr-594-2-ob-stanowice-gm-strzegom-pow-swidnicki-1",
@@ -2314,7 +2297,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/530312/remont-termomodernizacyjny-budynku-kowr-ot-we-wroclawiu-przy-ul-minskiej-60-w-zakresie-wymiany-pokrycia-dachowego-wraz-z-wymiana-instalacji-odgromowej",
-          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 4 dni 2026-09-17 14:56 2026-09-17 14:51",
+          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 3 dni 2026-09-17 14:56 2026-09-17 14:51",
           "confidence": 70.2
         }
       ],
@@ -2464,7 +2447,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/530312/remont-termomodernizacyjny-budynku-kowr-ot-we-wroclawiu-przy-ul-minskiej-60-w-zakresie-wymiany-pokrycia-dachowego-wraz-z-wymiana-instalacji-odgromowej",
-          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 4 dni 2026-09-17 14:56 2026-09-17 14:51",
+          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 3 dni 2026-09-17 14:56 2026-09-17 14:51",
           "confidence": 65.7
         }
       ],
@@ -2614,7 +2597,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531439/kowr-ot-poznan-porzadkowanie-i-zabezpieczenie-dostepu-po-pozarze-do-budynku-kustodii-w-msc-gniezno-ul-powstancow-wlkp-22-zalecenia-mkz-w-gnieznie",
-          "title": "531439 AU-005666 POZ.WGZ.261.110.2026.BSR KOWR OT Poznań - porządkowanie i zabezpieczenie dostępu po pożarze do budynku Kustodii w msc. Gniezno, ul. Powstańców Wlkp. 22 - zalecenia MKZ w Gnieźnie. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe Nie Zakupowe Etap składanie i otwarcie ofert 2026-09-25 15:01 2026-10-01 09:00 3 dni 2026-09-25 14:47 2026-09-25 14:47",
+          "title": "531439 AU-005666 POZ.WGZ.261.110.2026.BSR KOWR OT Poznań - porządkowanie i zabezpieczenie dostępu po pożarze do budynku Kustodii w msc. Gniezno, ul. Powstańców Wlkp. 22 - zalecenia MKZ w Gnieźnie. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe Nie Zakupowe Etap składanie i otwarcie ofert 2026-09-25 15:01 2026-10-01 09:00 2 dni 2026-09-25 14:47 2026-09-25 14:47",
           "confidence": 86.5
         }
       ],
@@ -2689,7 +2672,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531439/kowr-ot-poznan-porzadkowanie-i-zabezpieczenie-dostepu-po-pozarze-do-budynku-kustodii-w-msc-gniezno-ul-powstancow-wlkp-22-zalecenia-mkz-w-gnieznie",
-          "title": "531439 AU-005666 POZ.WGZ.261.110.2026.BSR KOWR OT Poznań - porządkowanie i zabezpieczenie dostępu po pożarze do budynku Kustodii w msc. Gniezno, ul. Powstańców Wlkp. 22 - zalecenia MKZ w Gnieźnie. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe Nie Zakupowe Etap składanie i otwarcie ofert 2026-09-25 15:01 2026-10-01 09:00 3 dni 2026-09-25 14:47 2026-09-25 14:47",
+          "title": "531439 AU-005666 POZ.WGZ.261.110.2026.BSR KOWR OT Poznań - porządkowanie i zabezpieczenie dostępu po pożarze do budynku Kustodii w msc. Gniezno, ul. Powstańców Wlkp. 22 - zalecenia MKZ w Gnieźnie. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe Nie Zakupowe Etap składanie i otwarcie ofert 2026-09-25 15:01 2026-10-01 09:00 2 dni 2026-09-25 14:47 2026-09-25 14:47",
           "confidence": 85.0
         }
       ],
@@ -3594,6 +3577,41 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.4",
+      "subject": "Roboty ogolnobudowlane w Gospodarstwie Rolnym w Maslowicach",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "317073,17 PLN 725 000,00 PLN",
+      "value_net": null,
+      "planned_start": "II kwartał IV kwartał",
+      "additional_info": "",
+      "update_info": "zmiana pozycji",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Łódź|2026|1.1.4",
+      "unit": "OT Łódź",
+      "year": 2026,
+      "plan_version": 2,
+      "plan_date": "02.09.2026",
+      "plan_bzp": "2026/BZP 00231231/02/P",
+      "plan_title": "OT Łódź - plan postępowań o dzielenie zamówień publicznych w roku 2026 - aktualizacja 02.09.2026 OT _Łódź _- _plan _postępowań _o _udzielenie _zamówień _publicznych _w _roku _2026 _aktualizacja _02092026.pdf 0.04MB",
+      "plan_url": "https://www.gov.pl/attachment/0381f566-b4c6-4a1f-bc6e-e0481c07c8bb",
+      "previous_version": 1,
+      "location": "Gospodarstwie Rolnym w Maslowicach",
+      "voivodeship": "łódzkie",
+      "change_status": "ZMIANA",
+      "change_detail": "zmiana pozycji",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 20 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "confidence": 79.4
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -4549,9 +4567,15 @@
       "voivodeship": "łódzkie",
       "change_status": "REZYGNACJA",
       "change_detail": "rezygnacja z pozycji",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 20 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "confidence": 88.5
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
+      "timing_status": "OPUBLIKOWANE",
       "status": "REZYGNACJA"
     },
     {
@@ -4581,7 +4605,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/530312/remont-termomodernizacyjny-budynku-kowr-ot-we-wroclawiu-przy-ul-minskiej-60-w-zakresie-wymiany-pokrycia-dachowego-wraz-z-wymiana-instalacji-odgromowej",
-          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 4 dni 2026-09-17 14:56 2026-09-17 14:51",
+          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 3 dni 2026-09-17 14:56 2026-09-17 14:51",
           "confidence": 68.5
         },
         {
@@ -4621,7 +4645,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/530312/remont-termomodernizacyjny-budynku-kowr-ot-we-wroclawiu-przy-ul-minskiej-60-w-zakresie-wymiany-pokrycia-dachowego-wraz-z-wymiana-instalacji-odgromowej",
-          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 4 dni 2026-09-17 14:56 2026-09-17 14:51",
+          "title": "530312 AU-005647 WRO.WO.260.23.2026 Remont termomodernizacyjny budynku KOWR OT we Wrocławiu przy ul. Mińskiej 60 w zakresie wymiany pokrycia dachowego wraz z wymianą instalacji odgromowej KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-17 15:00 2026-10-02 10:00 3 dni 2026-09-17 14:56 2026-09-17 14:51",
           "confidence": 71.9
         }
       ],
