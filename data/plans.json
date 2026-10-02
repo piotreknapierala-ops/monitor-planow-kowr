@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T13:11:01+00:00",
+    "generated_at": "2026-10-02T12:31:08+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -11,7 +11,7 @@
       "documents": 48,
       "value_net": 45506449.66,
       "new_or_changed": 77,
-      "published": 48,
+      "published": 49,
       "past_due": 32,
       "expected_units": 18,
       "missing_units": 3
@@ -660,35 +660,6 @@
       "announcement_matches": [],
       "announcement_url": "",
       "timing_status": "PLANOWANE",
-      "status": "NOWE"
-    },
-    {
-      "position": "1.1.15",
-      "subject": "Rozbiórka budynków w miejscowości Buków dz.nr 385/2 powiat nyski",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
-      "value_text": "180 553,49 PLN",
-      "value_net": 180553.49,
-      "planned_start": "III-IV kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 3,
-      "id": "OT Opole|2026|1.1.15",
-      "unit": "OT Opole",
-      "year": 2026,
-      "plan_version": 6,
-      "plan_date": "23.09.2026",
-      "plan_bzp": "2026/BZP 00114226/06/P",
-      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 23.09.2026 OT Opole - Plan postępowań na rok 2026 - aktualizacja z 23.09.2026.pdf 0.05MB",
-      "plan_url": "https://www.gov.pl/attachment/e51fd90c-fec5-47e0-86a1-6a96332a81a7",
-      "previous_version": 5,
-      "location": "Buków dz.nr 385/2 powiat nyski",
-      "voivodeship": "opolskie",
-      "change_status": "NOWE",
-      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "ZBLIŻA SIĘ",
       "status": "NOWE"
     },
     {
@@ -1812,7 +1783,12 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531690/kowr-ot-pruszcz-gdanski-usluga-inwentaryzacyjno-projektowa-polegajaca-na-wycenie-srodka-trwalego-oraz-opracowaniu-dokumentacji-projektowo-kosztorysowej-rozbiorki-istniejacego-zbiornika-podziemnego-wraz-z-rozpoznaniem-cieczy-znajdujacej-sie-w-jego-w",
-          "title": "531690 AU-005669 PRU.WGZ.261.13.2026.EDZ.8 KOWR OT Pruszcz Gdański - Usługa inwentaryzacyjno - projektowa polegająca na wycenie środka trwałego oraz opracowaniu dokumentacji projektowo kosztorysowej rozbiórki istniejącego zbiornika podziemnego wraz z rozpoznaniem cieczy znajdującej się w jego wnętrzu - obręb Smołdzino, powiat słupski. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-09-29 09:40 2026-10-06 23:59 5 ",
+          "title": "531690 AU-005669 PRU.WGZ.261.13.2026.EDZ.8 KOWR OT Pruszcz Gdański - Usługa inwentaryzacyjno - projektowa polegająca na wycenie środka trwałego oraz opracowaniu dokumentacji projektowo kosztorysowej rozbiórki istniejącego zbiornika podziemnego wraz z rozpoznaniem cieczy znajdującej się w jego wnętrzu - obręb Smołdzino, powiat słupski. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-09-29 09:40 2026-10-06 23:59 4 ",
+          "confidence": 100
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532372/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-slowiensko-gmina-slawoborze-powiat-swidwinski-wojewodztwo-zachodniopomorskie-na-dz-nr-71-27-obreb-slowiensko",
+          "title": "532372 AU-005680 KOS.WO.260.8.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Słowieńsko, gmina Sławoborze, powiat świdwiński, województwo zachodniopomorskie na dz. nr 71/27, obręb Słowieńsko KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-10-02 14:00 2026-10-21 11:00 18 dni 2026-10-02 13:52 2026-10-02",
           "confidence": 100
         }
       ],
@@ -2032,7 +2008,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
-          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 17 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 16 dni 2026-09-28 15:03 2026-09-28 15:03",
           "confidence": 100
         }
       ],
@@ -2172,7 +2148,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
-          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 17 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 16 dni 2026-09-28 15:03 2026-09-28 15:03",
           "confidence": 100
         }
       ],
@@ -2217,8 +2193,8 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531333/remont-zachowawczy-kamiennego-muru-ogrodzenia-wpisanego-do-rejestru-zabytkow-pod-nr-a-4714-1363-wl-z-dnia-03-03-1992-r-dz-nr-594-2-ob-stanowice-gm-strzegom-pow-swidnicki-2",
-          "title": "531333 AU-005665 WRO.WBiGM.21.90.2026.MC1/3 Remont zachowawczy kamiennego muru ogrodzenia wpisanego do rejestru zabytków pod nr A/4714/1363/Wł z dnia 03.03.1992 r. Dz. nr 594/2 ob. Stanowice, gm. Strzegom, pow. świdnicki. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap RFI/składanie wniosków/negocjacje wstępne 2026-09-25 09:00 2026-10-02 08:00 16 godzin 49 minut 2026-09-25 08:54 2026-09-25 08:54",
-          "confidence": 64.3
+          "title": "531333 AU-005665 WRO.WBiGM.21.90.2026.MC1/3 Remont zachowawczy kamiennego muru ogrodzenia wpisanego do rejestru zabytków pod nr A/4714/1363/Wł z dnia 03.03.1992 r. Dz. nr 594/2 ob. Stanowice, gm. Strzegom, pow. świdnicki. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Zakończono etap RFI/składanie wniosków/negocjacje wstępne 2026-10-02 08:00 2026-09-25 08:54 2026-09-25 08:54",
+          "confidence": 64.9
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529566/remont-zachowawczy-kamiennego-muru-ogrodzenia-wpisanego-do-rejestru-zabytkow-pod-nr-a-4714-1363-wl-z-dnia-03-03-1992-r-dz-nr-594-2-ob-stanowice-gm-strzegom-pow-swidnicki-1",
@@ -2576,6 +2552,41 @@
       "status": "OPUBLIKOWANE"
     },
     {
+      "position": "1.1.15",
+      "subject": "Rozbiórka budynków w miejscowości Buków dz.nr 385/2 powiat nyski",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
+      "value_text": "180 553,49 PLN",
+      "value_net": 180553.49,
+      "planned_start": "III-IV kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 3,
+      "id": "OT Opole|2026|1.1.15",
+      "unit": "OT Opole",
+      "year": 2026,
+      "plan_version": 6,
+      "plan_date": "23.09.2026",
+      "plan_bzp": "2026/BZP 00114226/06/P",
+      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 23.09.2026 OT Opole - Plan postępowań na rok 2026 - aktualizacja z 23.09.2026.pdf 0.05MB",
+      "plan_url": "https://www.gov.pl/attachment/e51fd90c-fec5-47e0-86a1-6a96332a81a7",
+      "previous_version": 5,
+      "location": "Buków dz.nr 385/2 powiat nyski",
+      "voivodeship": "opolskie",
+      "change_status": "NOWE",
+      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532372/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-slowiensko-gmina-slawoborze-powiat-swidwinski-wojewodztwo-zachodniopomorskie-na-dz-nr-71-27-obreb-slowiensko",
+          "title": "532372 AU-005680 KOS.WO.260.8.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Słowieńsko, gmina Sławoborze, powiat świdwiński, województwo zachodniopomorskie na dz. nr 71/27, obręb Słowieńsko KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-10-02 14:00 2026-10-21 11:00 18 dni 2026-10-02 13:52 2026-10-02",
+          "confidence": 77.0
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532372/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-slowiensko-gmina-slawoborze-powiat-swidwinski-wojewodztwo-zachodniopomorskie-na-dz-nr-71-27-obreb-slowiensko",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
       "position": "1.1.9",
       "subject": "Zabezpieczenie budynku - Całowanie",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -2607,7 +2618,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531705/zabezpieczenie-zabytkowego-drewnianego-dworu-polozonego-pod-adresem-zalesie-62-2-na-dzialce-nr-ew-29-4-w-obrebie-zalesie-pgr-gmina-ostrow-mazowiecka-wojewodztwo-mazowieckie",
-          "title": "531705 AU-005670 261/2026 Zabezpieczenie zabytkowego, drewnianego Dworu położonego pod adresem Zalesie 62/2, na działce nr. ew. 29/4, w obrębie Zalesie PGR, gmina Ostrów Mazowiecka, województwo Mazowieckie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Warszawa MAZOWIECKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składanie ofert 2026-09-29 10:30 2026-10-15 12:00 13 dni 2026-09-29 10:03 2026-09-29 10:02",
+          "title": "531705 AU-005670 261/2026 Zabezpieczenie zabytkowego, drewnianego Dworu położonego pod adresem Zalesie 62/2, na działce nr. ew. 29/4, w obrębie Zalesie PGR, gmina Ostrów Mazowiecka, województwo Mazowieckie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Warszawa MAZOWIECKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składanie ofert 2026-09-29 10:30 2026-10-15 12:00 12 dni 2026-09-29 10:03 2026-09-29 10:02",
           "confidence": 73.9
         }
       ],
@@ -2682,7 +2693,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531705/zabezpieczenie-zabytkowego-drewnianego-dworu-polozonego-pod-adresem-zalesie-62-2-na-dzialce-nr-ew-29-4-w-obrebie-zalesie-pgr-gmina-ostrow-mazowiecka-wojewodztwo-mazowieckie",
-          "title": "531705 AU-005670 261/2026 Zabezpieczenie zabytkowego, drewnianego Dworu położonego pod adresem Zalesie 62/2, na działce nr. ew. 29/4, w obrębie Zalesie PGR, gmina Ostrów Mazowiecka, województwo Mazowieckie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Warszawa MAZOWIECKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składanie ofert 2026-09-29 10:30 2026-10-15 12:00 13 dni 2026-09-29 10:03 2026-09-29 10:02",
+          "title": "531705 AU-005670 261/2026 Zabezpieczenie zabytkowego, drewnianego Dworu położonego pod adresem Zalesie 62/2, na działce nr. ew. 29/4, w obrębie Zalesie PGR, gmina Ostrów Mazowiecka, województwo Mazowieckie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Warszawa MAZOWIECKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składanie ofert 2026-09-29 10:30 2026-10-15 12:00 12 dni 2026-09-29 10:03 2026-09-29 10:02",
           "confidence": 92.0
         },
         {
@@ -3622,7 +3633,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
-          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 17 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 16 dni 2026-09-28 15:03 2026-09-28 15:03",
           "confidence": 79.4
         }
       ],
@@ -4585,7 +4596,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
-          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 17 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 16 dni 2026-09-28 15:03 2026-09-28 15:03",
           "confidence": 88.5
         }
       ],
