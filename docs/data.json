@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T12:20:54+00:00",
+    "generated_at": "2026-10-05T14:34:15+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -11,8 +11,8 @@
       "documents": 48,
       "value_net": 45506449.66,
       "new_or_changed": 77,
-      "published": 49,
-      "past_due": 32,
+      "published": 52,
+      "past_due": 29,
       "expected_units": 18,
       "missing_units": 3
     },
@@ -286,35 +286,6 @@
       "status": "NOWE"
     },
     {
-      "position": "1.1.12",
-      "subject": "Rozbiórka warsztatu wiaty stodoły i wybiegu dla gęsi Chocianów dz. 574, gm. Chocianów, powiat polkowicki",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "573 000,00 PLN",
-      "value_net": 573000.0,
-      "planned_start": "III kwartał",
-      "additional_info": "Zamówienie jest odpowiednie dla MŚP: TAK Zamówienie strategiczne (zielone, społeczne, innowacyjne): NIE Zamówienie zastrzeżone: NIE Charakter zamówienia: zamówienia klasyczne",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 5,
-      "id": "OT Wrocław|2026|1.1.12",
-      "unit": "OT Wrocław",
-      "year": 2026,
-      "plan_version": 7,
-      "plan_date": "30.07.2026",
-      "plan_bzp": "2026/BZP 00110031/07/P",
-      "plan_title": "OT Wrocław - Plan postępowań o udzielenie zamówień publicznych 2026 (aktualizacja na dzień 30.07.2026) 2026 _BZP _00110031 _07 _P.pdf 0.09MB",
-      "plan_url": "https://www.gov.pl/attachment/db25419a-49d4-40bb-ba48-cc2e499f70d3",
-      "previous_version": null,
-      "location": "Chocianów, powiat polkowicki",
-      "voivodeship": "dolnośląskie",
-      "change_status": "NOWE",
-      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PO TERMINIE – BRAK OGŁOSZENIA",
-      "status": "NOWE"
-    },
-    {
       "position": "1.1.11",
       "subject": "Rozbiórka budynków i budowli położonych w Zakrzowie m.Opole, dz. nr 270/9, 276/7, 281/7, 282/8, powiat opolski",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
@@ -423,35 +394,6 @@
       "previous_version": null,
       "location": "",
       "voivodeship": "dolnośląskie",
-      "change_status": "NOWE",
-      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PO TERMINIE – BRAK OGŁOSZENIA",
-      "status": "NOWE"
-    },
-    {
-      "position": "1.1.14",
-      "subject": "Rozbiórka obiektów w miejscowości Kalinów, gm. Strzelce Opolskie, powiat strzelecki, dz.nr 1401/14",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
-      "value_text": "298 543,03 PLN",
-      "value_net": 298543.03,
-      "planned_start": "III-VI kwartał",
-      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 3,
-      "id": "OT Opole|2026|1.1.14",
-      "unit": "OT Opole",
-      "year": 2026,
-      "plan_version": 6,
-      "plan_date": "23.09.2026",
-      "plan_bzp": "2026/BZP 00114226/06/P",
-      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 23.09.2026 OT Opole - Plan postępowań na rok 2026 - aktualizacja z 23.09.2026.pdf 0.05MB",
-      "plan_url": "https://www.gov.pl/attachment/e51fd90c-fec5-47e0-86a1-6a96332a81a7",
-      "previous_version": 5,
-      "location": "Kalinów, gm. Strzelce Opolskie, powiat strzelecki, dz.nr 1401/14",
-      "voivodeship": "opolskie",
       "change_status": "NOWE",
       "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
       "announcement_matches": [],
@@ -916,35 +858,6 @@
       "previous_version": 1,
       "location": "Mielęcinie",
       "voivodeship": "podkarpackie",
-      "change_status": "NOWE",
-      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PO TERMINIE – BRAK OGŁOSZENIA",
-      "status": "NOWE"
-    },
-    {
-      "position": "1.1.21",
-      "subject": "Rozbiórka: szamb w miejscowości Międzychód, gmina Zalewo, oraz w miejscowości Bartężek, gmina Morąg",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "81 300,81 PLN",
-      "value_net": 81300.81,
-      "planned_start": "I kwartał",
-      "additional_info": "Zamówienie jest odpowiednie dla MŚP: TAK Zamówienie strategiczne (zielone, społeczne, innowacyjne): NIE Zamówienie zastrzeżone: NIE Charakter zamówienia: zamówienia klasyczne",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 7,
-      "id": "OT Olsztyn|2026|1.1.21",
-      "unit": "OT Olsztyn",
-      "year": 2026,
-      "plan_version": 1,
-      "plan_date": "04.09.2026",
-      "plan_bzp": "",
-      "plan_title": "KOWR OT Olsztyn – Plan postępowań o udzielenie zamówień na 2026 rok – wersja nr 10 z dnia 04.09.2026 2026 _BZP _00069925 _10 _P.pdf 0.08MB",
-      "plan_url": "https://www.gov.pl/attachment/66858681-2c0c-4ee1-9d69-357a4dfc2d18",
-      "previous_version": null,
-      "location": "Międzychód, gmina Zalewo, oraz w miejscowości Bartężek, gmina Morąg",
-      "voivodeship": "warmińsko-mazurskie",
       "change_status": "NOWE",
       "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
       "announcement_matches": [],
@@ -1783,12 +1696,12 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531690/kowr-ot-pruszcz-gdanski-usluga-inwentaryzacyjno-projektowa-polegajaca-na-wycenie-srodka-trwalego-oraz-opracowaniu-dokumentacji-projektowo-kosztorysowej-rozbiorki-istniejacego-zbiornika-podziemnego-wraz-z-rozpoznaniem-cieczy-znajdujacej-sie-w-jego-w",
-          "title": "531690 AU-005669 PRU.WGZ.261.13.2026.EDZ.8 KOWR OT Pruszcz Gdański - Usługa inwentaryzacyjno - projektowa polegająca na wycenie środka trwałego oraz opracowaniu dokumentacji projektowo kosztorysowej rozbiórki istniejącego zbiornika podziemnego wraz z rozpoznaniem cieczy znajdującej się w jego wnętrzu - obręb Smołdzino, powiat słupski. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-09-29 09:40 2026-10-06 23:59 2 ",
+          "title": "531690 AU-005669 PRU.WGZ.261.13.2026.EDZ.8 KOWR OT Pruszcz Gdański - Usługa inwentaryzacyjno - projektowa polegająca na wycenie środka trwałego oraz opracowaniu dokumentacji projektowo kosztorysowej rozbiórki istniejącego zbiornika podziemnego wraz z rozpoznaniem cieczy znajdującej się w jego wnętrzu - obręb Smołdzino, powiat słupski. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-09-29 09:40 2026-10-06 23:59 1 ",
           "confidence": 100
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532372/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-slowiensko-gmina-slawoborze-powiat-swidwinski-wojewodztwo-zachodniopomorskie-na-dz-nr-71-27-obreb-slowiensko",
-          "title": "532372 AU-005680 KOS.WO.260.8.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Słowieńsko, gmina Sławoborze, powiat świdwiński, województwo zachodniopomorskie na dz. nr 71/27, obręb Słowieńsko KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-10-02 14:00 2026-10-21 11:00 16 dni 2026-10-02 13:52 2026-10-02",
+          "title": "532372 AU-005680 KOS.WO.260.8.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Słowieńsko, gmina Sławoborze, powiat świdwiński, województwo zachodniopomorskie na dz. nr 71/27, obręb Słowieńsko KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-10-02 14:00 2026-10-21 11:00 15 dni 2026-10-02 13:52 2026-10-02",
           "confidence": 100
         }
       ],
@@ -1912,6 +1825,41 @@
       "status": "OPUBLIKOWANE"
     },
     {
+      "position": "1.1.12",
+      "subject": "Rozbiórka warsztatu wiaty stodoły i wybiegu dla gęsi Chocianów dz. 574, gm. Chocianów, powiat polkowicki",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "573 000,00 PLN",
+      "value_net": 573000.0,
+      "planned_start": "III kwartał",
+      "additional_info": "Zamówienie jest odpowiednie dla MŚP: TAK Zamówienie strategiczne (zielone, społeczne, innowacyjne): NIE Zamówienie zastrzeżone: NIE Charakter zamówienia: zamówienia klasyczne",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 5,
+      "id": "OT Wrocław|2026|1.1.12",
+      "unit": "OT Wrocław",
+      "year": 2026,
+      "plan_version": 7,
+      "plan_date": "30.07.2026",
+      "plan_bzp": "2026/BZP 00110031/07/P",
+      "plan_title": "OT Wrocław - Plan postępowań o udzielenie zamówień publicznych 2026 (aktualizacja na dzień 30.07.2026) 2026 _BZP _00110031 _07 _P.pdf 0.09MB",
+      "plan_url": "https://www.gov.pl/attachment/db25419a-49d4-40bb-ba48-cc2e499f70d3",
+      "previous_version": null,
+      "location": "Chocianów, powiat polkowicki",
+      "voivodeship": "dolnośląskie",
+      "change_status": "NOWE",
+      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 4 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "confidence": 62.0
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
       "position": "1.1.31",
       "subject": "Instalowanie przeciwpożarowych systemów alarmowych w OT KOWR w Poznaniu przy ul. Fredry 12.",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -2008,7 +1956,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
-          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 14 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 13 dni 2026-09-28 15:03 2026-09-28 15:03",
           "confidence": 100
         }
       ],
@@ -2148,7 +2096,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
-          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 14 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 13 dni 2026-09-28 15:03 2026-09-28 15:03",
           "confidence": 100
         }
       ],
@@ -2243,6 +2191,41 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.14",
+      "subject": "Rozbiórka obiektów w miejscowości Kalinów, gm. Strzelce Opolskie, powiat strzelecki, dz.nr 1401/14",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 2 ustawy",
+      "value_text": "298 543,03 PLN",
+      "value_net": 298543.03,
+      "planned_start": "III-VI kwartał",
+      "additional_info": "Charakter zamówienia: zamówienia klasyczne Informacje dodatkowe: Zamówienie podlega sumowaniu, w oparciu o art.30 ust.1 ustawy PZP.",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 3,
+      "id": "OT Opole|2026|1.1.14",
+      "unit": "OT Opole",
+      "year": 2026,
+      "plan_version": 6,
+      "plan_date": "23.09.2026",
+      "plan_bzp": "2026/BZP 00114226/06/P",
+      "plan_title": "OT Opole - Plan postępowań na rok 2026 - aktualizacja z 23.09.2026 OT Opole - Plan postępowań na rok 2026 - aktualizacja z 23.09.2026.pdf 0.05MB",
+      "plan_url": "https://www.gov.pl/attachment/e51fd90c-fec5-47e0-86a1-6a96332a81a7",
+      "previous_version": 5,
+      "location": "Kalinów, gm. Strzelce Opolskie, powiat strzelecki, dz.nr 1401/14",
+      "voivodeship": "opolskie",
+      "change_status": "NOWE",
+      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 4 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "confidence": 63.7
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -2577,12 +2560,17 @@
       "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 4 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "confidence": 79.7
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532372/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-slowiensko-gmina-slawoborze-powiat-swidwinski-wojewodztwo-zachodniopomorskie-na-dz-nr-71-27-obreb-slowiensko",
-          "title": "532372 AU-005680 KOS.WO.260.8.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Słowieńsko, gmina Sławoborze, powiat świdwiński, województwo zachodniopomorskie na dz. nr 71/27, obręb Słowieńsko KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-10-02 14:00 2026-10-21 11:00 16 dni 2026-10-02 13:52 2026-10-02",
+          "title": "532372 AU-005680 KOS.WO.260.8.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Słowieńsko, gmina Sławoborze, powiat świdwiński, województwo zachodniopomorskie na dz. nr 71/27, obręb Słowieńsko KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-10-02 14:00 2026-10-21 11:00 15 dni 2026-10-02 13:52 2026-10-02",
           "confidence": 77.0
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532372/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-slowiensko-gmina-slawoborze-powiat-swidwinski-wojewodztwo-zachodniopomorskie-na-dz-nr-71-27-obreb-slowiensko",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -2618,7 +2606,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531705/zabezpieczenie-zabytkowego-drewnianego-dworu-polozonego-pod-adresem-zalesie-62-2-na-dzialce-nr-ew-29-4-w-obrebie-zalesie-pgr-gmina-ostrow-mazowiecka-wojewodztwo-mazowieckie",
-          "title": "531705 AU-005670 261/2026 Zabezpieczenie zabytkowego, drewnianego Dworu położonego pod adresem Zalesie 62/2, na działce nr. ew. 29/4, w obrębie Zalesie PGR, gmina Ostrów Mazowiecka, województwo Mazowieckie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Warszawa MAZOWIECKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składanie ofert 2026-09-29 10:30 2026-10-15 12:00 10 dni 2026-09-29 10:03 2026-09-29 10:02",
+          "title": "531705 AU-005670 261/2026 Zabezpieczenie zabytkowego, drewnianego Dworu położonego pod adresem Zalesie 62/2, na działce nr. ew. 29/4, w obrębie Zalesie PGR, gmina Ostrów Mazowiecka, województwo Mazowieckie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Warszawa MAZOWIECKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składanie ofert 2026-09-29 10:30 2026-10-15 12:00 9 dni 2026-09-29 10:03 2026-09-29 10:02",
           "confidence": 73.9
         }
       ],
@@ -2693,7 +2681,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531705/zabezpieczenie-zabytkowego-drewnianego-dworu-polozonego-pod-adresem-zalesie-62-2-na-dzialce-nr-ew-29-4-w-obrebie-zalesie-pgr-gmina-ostrow-mazowiecka-wojewodztwo-mazowieckie",
-          "title": "531705 AU-005670 261/2026 Zabezpieczenie zabytkowego, drewnianego Dworu położonego pod adresem Zalesie 62/2, na działce nr. ew. 29/4, w obrębie Zalesie PGR, gmina Ostrów Mazowiecka, województwo Mazowieckie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Warszawa MAZOWIECKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składanie ofert 2026-09-29 10:30 2026-10-15 12:00 10 dni 2026-09-29 10:03 2026-09-29 10:02",
+          "title": "531705 AU-005670 261/2026 Zabezpieczenie zabytkowego, drewnianego Dworu położonego pod adresem Zalesie 62/2, na działce nr. ew. 29/4, w obrębie Zalesie PGR, gmina Ostrów Mazowiecka, województwo Mazowieckie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Warszawa MAZOWIECKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składanie ofert 2026-09-29 10:30 2026-10-15 12:00 9 dni 2026-09-29 10:03 2026-09-29 10:02",
           "confidence": 92.0
         },
         {
@@ -3167,6 +3155,41 @@
       "status": "OPUBLIKOWANE"
     },
     {
+      "position": "1.1.21",
+      "subject": "Rozbiórka: szamb w miejscowości Międzychód, gmina Zalewo, oraz w miejscowości Bartężek, gmina Morąg",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "81 300,81 PLN",
+      "value_net": 81300.81,
+      "planned_start": "I kwartał",
+      "additional_info": "Zamówienie jest odpowiednie dla MŚP: TAK Zamówienie strategiczne (zielone, społeczne, innowacyjne): NIE Zamówienie zastrzeżone: NIE Charakter zamówienia: zamówienia klasyczne",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 7,
+      "id": "OT Olsztyn|2026|1.1.21",
+      "unit": "OT Olsztyn",
+      "year": 2026,
+      "plan_version": 1,
+      "plan_date": "04.09.2026",
+      "plan_bzp": "",
+      "plan_title": "KOWR OT Olsztyn – Plan postępowań o udzielenie zamówień na 2026 rok – wersja nr 10 z dnia 04.09.2026 2026 _BZP _00069925 _10 _P.pdf 0.08MB",
+      "plan_url": "https://www.gov.pl/attachment/66858681-2c0c-4ee1-9d69-357a4dfc2d18",
+      "previous_version": null,
+      "location": "Międzychód, gmina Zalewo, oraz w miejscowości Bartężek, gmina Morąg",
+      "voivodeship": "warmińsko-mazurskie",
+      "change_status": "NOWE",
+      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 4 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "confidence": 61.7
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
       "position": "1.1.8",
       "subject": "Remont lokalu mieszkalnego w msc. Szropy-Śledziówka 1 m 4, gmina Stary Targ",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -3633,7 +3656,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
-          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 14 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 13 dni 2026-09-28 15:03 2026-09-28 15:03",
           "confidence": 79.4
         }
       ],
@@ -4596,7 +4619,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/531644/roboty-budowlane-w-gospodarstwie-rolnym-orlow-parcel",
-          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 14 dni 2026-09-28 15:03 2026-09-28 15:03",
+          "title": "531644 AU-005668 LOD.WO.260.6.2026.KW Roboty budowlane w Gospodarstwie Rolnym Orłów Parcel KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Łódź ŁÓDZKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie Ofert 2026-09-28 15:30 2026-10-19 12:00 13 dni 2026-09-28 15:03 2026-09-28 15:03",
           "confidence": 88.5
         }
       ],
@@ -4848,9 +4871,15 @@
       "voivodeship": "warmińsko-mazurskie",
       "change_status": "REZYGNACJA",
       "change_detail": "rezygnacja z pozycji",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PO TERMINIE – BRAK OGŁOSZENIA",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 4 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "confidence": 62.1
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
+      "timing_status": "OPUBLIKOWANE",
       "status": "REZYGNACJA"
     },
     {
