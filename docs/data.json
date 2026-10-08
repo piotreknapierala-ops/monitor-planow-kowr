@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T13:20:08+00:00",
+    "generated_at": "2026-10-08T13:26:45+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -11,7 +11,7 @@
       "documents": 49,
       "value_net": 45374645.52,
       "new_or_changed": 74,
-      "published": 54,
+      "published": 59,
       "past_due": 25,
       "expected_units": 18,
       "missing_units": 3
@@ -602,35 +602,6 @@
       "announcement_matches": [],
       "announcement_url": "",
       "timing_status": "PO TERMINIE – BRAK OGŁOSZENIA",
-      "status": "NOWE"
-    },
-    {
-      "position": "1.1.33",
-      "subject": "Remont w budynku Zamawiającego w pomieszczeniu technicznym, wnęce korytarzowej i pomieszczeniu socjalnym wraz z wyposażeniem w meble kuchenne.",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "160 162,60 PLN",
-      "value_net": 160162.6,
-      "planned_start": "III kw",
-      "additional_info": "",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 5,
-      "id": "OT Poznań|2026|1.1.33",
-      "unit": "OT Poznań",
-      "year": 2026,
-      "plan_version": 9,
-      "plan_date": "12.08.2026",
-      "plan_bzp": "2026/BZP 00056003/09/P",
-      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
-      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
-      "previous_version": 3,
-      "location": "",
-      "voivodeship": "wielkopolskie",
-      "change_status": "NOWE",
-      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PLANOWANE",
       "status": "NOWE"
     },
     {
@@ -1558,6 +1529,11 @@
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532372/kowr-ot-w-koszalinie-wykonanie-rozbiorki-calkowitej-budynkow-i-budowli-polozonych-w-miejscowosci-slowiensko-gmina-slawoborze-powiat-swidwinski-wojewodztwo-zachodniopomorskie-na-dz-nr-71-27-obreb-slowiensko",
           "title": "532372 AU-005680 KOS.WO.260.8.2026 KOWR OT w Koszalinie - Wykonanie rozbiórki całkowitej budynków i budowli położonych w miejscowości Słowieńsko, gmina Sławoborze, powiat świdwiński, województwo zachodniopomorskie na dz. nr 71/27, obręb Słowieńsko KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA ZACHODNIOPOMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-10-02 14:00 2026-10-21 11:00 13 dni 2026-10-02 13:52 2026-10-02",
           "confidence": 100
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533109/kowr-ot-pruszcz-gdanski-usluga-inwentaryzacyjno-projektowa-polegajaca-na-wycenie-srodka-trwalego-oraz-opracowaniu-dokumentacji-projektowo-kosztorysowej-rozbiorki-istniejacego-zbiornika-podziemnego-wraz-z-rozpoznaniem-cieczy-znajdujacej-sie-w-jego-w-1",
+          "title": "533109 AU-005709 PRU.WGZ.261.13.2026.EZD.12 KOWR OT Pruszcz Gdański - Usługa inwentaryzacyjno - projektowa polegająca na wycenie środka trwałego oraz opracowaniu dokumentacji projektowo kosztorysowej rozbiórki istniejącego zbiornika podziemnego wraz z rozpoznaniem cieczy znajdującej się w jego wnętrzu - obręb Smołdzino, powiat słupski - II KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-08 13:00 2026-10-15 23:",
+          "confidence": 100
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525568/inwentaryzacja-architektoniczno-budowlana-z-opisanymi-fotografiami-elewacji-i-elementow-konstrukcji-dachy-stropy-wybrane-detale-budynku-spichlerza-i-obory-wraz-z-projektem-rozbiorki-dodatkowo-kosztorys-rozbiorki-wszystkich-budynkow-znajdujacych-sie",
@@ -1711,7 +1687,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
-          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 2 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 1 dzień 2026-10-05 13:56 2026-10-05 13:56",
           "confidence": 62.0
         }
       ],
@@ -1747,6 +1723,11 @@
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525911/kowr-ot-poznan-postepowanie-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-wykonaniu-systemu-kontroli-dostepu-do-wybranych-pomieszczen-w-siedzibie-zam",
           "title": "525911 AU-005556 POZ.WO.261.62.2026.MGA KOWR OT Poznań - postępowanie na wykonanie dokumentacji projektowo kosztorysowej wraz ze sprawowaniem nadzoru autorskiego podczas realizacji robót budowlanych polegających na wykonaniu systemu kontroli dostępu do wybranych pomieszczeń w siedzibie Zamawiającego przy ulicy Fredry 12 w Poznaniu. Postępowanie prowadzone w oparciu o art. 30 ust. 4 w związku z art. 2 ust. 1 pkt 1 ustawy Pzp. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe",
+          "confidence": 69.0
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533036/kowr-ot-poznan-rozeznanie-rynku-w-celu-oszacowania-wartosci-planowanego-zamowienia-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-remoncie-bocznej-kla",
+          "title": "533036 AU-005706 POZ.WO.261.85.2026.MGA KOWR OT Poznań - rozeznanie rynku w celu oszacowania wartości planowanego zamówienia na wykonanie dokumentacji projektowo kosztorysowej wraz ze sprawowaniem nadzoru autorskiego podczas realizacji robót budowlanych polegających na remoncie bocznej klatki schodowej w budynku administracyjnym Oddziału Terenowego KOWR zlokalizowanym w Poznaniu przy ulicy Fredry 12. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Publiczne (PZP) Rozeznanie rynku Nie ",
           "confidence": 69.0
         }
       ],
@@ -1786,6 +1767,41 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/527809/kowr-ot-pruszcz-gdanski-roboty-budowlane-polegajace-na-zakupie-i-montazu-czterech-bezodplywowych-zbiornikow-na-nieczystosci-ciekle-o-pojemnosci-10m3-wraz-z-podlaczeniem-do-czterech-lokali-mieszkalnych-w-miejscowosci-komarowka-1-1-3-6-8-gm-ostaszewo-1",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.35",
+      "subject": "Remont bocznej klatki schodowej oraz pomieszczenia magazynowego znajdujących się w budynku administracyjnym Oddziału Terenowego KOWR zlokalizowanym w Poznaniu przy ulicy Fredry 12.",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "447 154,47 PLN",
+      "value_net": 447154.47,
+      "planned_start": "III kw",
+      "additional_info": "",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 6,
+      "id": "OT Poznań|2026|1.1.35",
+      "unit": "OT Poznań",
+      "year": 2026,
+      "plan_version": 9,
+      "plan_date": "12.08.2026",
+      "plan_bzp": "2026/BZP 00056003/09/P",
+      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
+      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
+      "previous_version": 3,
+      "location": "",
+      "voivodeship": "wielkopolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533036/kowr-ot-poznan-rozeznanie-rynku-w-celu-oszacowania-wartosci-planowanego-zamowienia-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-remoncie-bocznej-kla",
+          "title": "533036 AU-005706 POZ.WO.261.85.2026.MGA KOWR OT Poznań - rozeznanie rynku w celu oszacowania wartości planowanego zamówienia na wykonanie dokumentacji projektowo kosztorysowej wraz ze sprawowaniem nadzoru autorskiego podczas realizacji robót budowlanych polegających na remoncie bocznej klatki schodowej w budynku administracyjnym Oddziału Terenowego KOWR zlokalizowanym w Poznaniu przy ulicy Fredry 12. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Publiczne (PZP) Rozeznanie rynku Nie ",
+          "confidence": 99.2
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533036/kowr-ot-poznan-rozeznanie-rynku-w-celu-oszacowania-wartosci-planowanego-zamowienia-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-remoncie-bocznej-kla",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -1923,6 +1939,11 @@
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525911/kowr-ot-poznan-postepowanie-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-wykonaniu-systemu-kontroli-dostepu-do-wybranych-pomieszczen-w-siedzibie-zam",
           "title": "525911 AU-005556 POZ.WO.261.62.2026.MGA KOWR OT Poznań - postępowanie na wykonanie dokumentacji projektowo kosztorysowej wraz ze sprawowaniem nadzoru autorskiego podczas realizacji robót budowlanych polegających na wykonaniu systemu kontroli dostępu do wybranych pomieszczeń w siedzibie Zamawiającego przy ulicy Fredry 12 w Poznaniu. Postępowanie prowadzone w oparciu o art. 30 ust. 4 w związku z art. 2 ust. 1 pkt 1 ustawy Pzp. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe",
           "confidence": 96.5
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533036/kowr-ot-poznan-rozeznanie-rynku-w-celu-oszacowania-wartosci-planowanego-zamowienia-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-remoncie-bocznej-kla",
+          "title": "533036 AU-005706 POZ.WO.261.85.2026.MGA KOWR OT Poznań - rozeznanie rynku w celu oszacowania wartości planowanego zamówienia na wykonanie dokumentacji projektowo kosztorysowej wraz ze sprawowaniem nadzoru autorskiego podczas realizacji robót budowlanych polegających na remoncie bocznej klatki schodowej w budynku administracyjnym Oddziału Terenowego KOWR zlokalizowanym w Poznaniu przy ulicy Fredry 12. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Publiczne (PZP) Rozeznanie rynku Nie ",
+          "confidence": 72.9
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525911/kowr-ot-poznan-postepowanie-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-wykonaniu-systemu-kontroli-dostepu-do-wybranych-pomieszczen-w-siedzibie-zam",
@@ -2081,7 +2102,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
-          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 2 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 1 dzień 2026-10-05 13:56 2026-10-05 13:56",
           "confidence": 63.7
         }
       ],
@@ -2156,7 +2177,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532455/remont-dachu-kominow-i-sciany-szczytowej-w-miejscowosci-konczyce-5-dz-nr-8-gm-nowe-pow-swiecki-woj-kujawsko-pomorskie-1",
-          "title": "532455 AU-005685 BYD.WO.260.25.2026.MB Remont dachu, kominów i ściany szczytowej w miejscowości Kończyce 5, dz. nr 8, gm. Nowe, pow. świecki, woj. kujawsko-pomorskie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Bydgoszcz KUJAWSKO-POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Termin składania ofert 2026-10-07 10:30 2026-10-26 09:00 18 dni 2026-10-07 10:10 2026-10-05 09:53",
+          "title": "532455 AU-005685 BYD.WO.260.25.2026.MB Remont dachu, kominów i ściany szczytowej w miejscowości Kończyce 5, dz. nr 8, gm. Nowe, pow. świecki, woj. kujawsko-pomorskie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Bydgoszcz KUJAWSKO-POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Termin składania ofert 2026-10-07 10:30 2026-10-26 09:00 17 dni 2026-10-07 10:10 2026-10-05 09:53",
           "confidence": 72.3
         }
       ],
@@ -2306,7 +2327,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532455/remont-dachu-kominow-i-sciany-szczytowej-w-miejscowosci-konczyce-5-dz-nr-8-gm-nowe-pow-swiecki-woj-kujawsko-pomorskie-1",
-          "title": "532455 AU-005685 BYD.WO.260.25.2026.MB Remont dachu, kominów i ściany szczytowej w miejscowości Kończyce 5, dz. nr 8, gm. Nowe, pow. świecki, woj. kujawsko-pomorskie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Bydgoszcz KUJAWSKO-POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Termin składania ofert 2026-10-07 10:30 2026-10-26 09:00 18 dni 2026-10-07 10:10 2026-10-05 09:53",
+          "title": "532455 AU-005685 BYD.WO.260.25.2026.MB Remont dachu, kominów i ściany szczytowej w miejscowości Kończyce 5, dz. nr 8, gm. Nowe, pow. świecki, woj. kujawsko-pomorskie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Bydgoszcz KUJAWSKO-POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Termin składania ofert 2026-10-07 10:30 2026-10-26 09:00 17 dni 2026-10-07 10:10 2026-10-05 09:53",
           "confidence": 72.3
         }
       ],
@@ -2491,7 +2512,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
-          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 2 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 1 dzień 2026-10-05 13:56 2026-10-05 13:56",
           "confidence": 79.7
         },
         {
@@ -2581,6 +2602,41 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529083/wymiana-pokrycia-dachowego-budynku-mieszkalnego-zlokalizowanego-na-dz-nr-152-1-obr-stary-klukom-gm-choszczno-postepowanie-nr-2",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.33",
+      "subject": "Remont w budynku Zamawiającego w pomieszczeniu technicznym, wnęce korytarzowej i pomieszczeniu socjalnym wraz z wyposażeniem w meble kuchenne.",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "160 162,60 PLN",
+      "value_net": 160162.6,
+      "planned_start": "III kw",
+      "additional_info": "",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 5,
+      "id": "OT Poznań|2026|1.1.33",
+      "unit": "OT Poznań",
+      "year": 2026,
+      "plan_version": 9,
+      "plan_date": "12.08.2026",
+      "plan_bzp": "2026/BZP 00056003/09/P",
+      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
+      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
+      "previous_version": 3,
+      "location": "",
+      "voivodeship": "wielkopolskie",
+      "change_status": "NOWE",
+      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
+          "title": "533098 AU-005708 POZ.WO.261.82.2026.MGA KOWR OT Poznań - Postępowanie na wykonanie robót budowlanych w siedzibie Sekcji Zamiejscowej KOWR OT Poznań w Przygodzicach, Pardalin 33, polegających na: Część 1: przebudowie pomieszczenia administracyjnego wraz z instalacją wodno-kanalizacyjną i elektryczną oraz wyposażeniem w meble kuchenne. Część 2: modernizacji pomieszczenia sanitarnego z dostosowaniem do potrzeb osób niepełnosprawnych wraz z jego wyposażeniem. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Po",
+          "confidence": 61.5
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -2995,6 +3051,11 @@
       "change_detail": "",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533036/kowr-ot-poznan-rozeznanie-rynku-w-celu-oszacowania-wartosci-planowanego-zamowienia-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-remoncie-bocznej-kla",
+          "title": "533036 AU-005706 POZ.WO.261.85.2026.MGA KOWR OT Poznań - rozeznanie rynku w celu oszacowania wartości planowanego zamówienia na wykonanie dokumentacji projektowo kosztorysowej wraz ze sprawowaniem nadzoru autorskiego podczas realizacji robót budowlanych polegających na remoncie bocznej klatki schodowej w budynku administracyjnym Oddziału Terenowego KOWR zlokalizowanym w Poznaniu przy ulicy Fredry 12. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Publiczne (PZP) Rozeznanie rynku Nie ",
+          "confidence": 88.7
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525911/kowr-ot-poznan-postepowanie-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-wykonaniu-systemu-kontroli-dostepu-do-wybranych-pomieszczen-w-siedzibie-zam",
           "title": "525911 AU-005556 POZ.WO.261.62.2026.MGA KOWR OT Poznań - postępowanie na wykonanie dokumentacji projektowo kosztorysowej wraz ze sprawowaniem nadzoru autorskiego podczas realizacji robót budowlanych polegających na wykonaniu systemu kontroli dostępu do wybranych pomieszczeń w siedzibie Zamawiającego przy ulicy Fredry 12 w Poznaniu. Postępowanie prowadzone w oparciu o art. 30 ust. 4 w związku z art. 2 ust. 1 pkt 1 ustawy Pzp. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe",
           "confidence": 81.4
@@ -3007,10 +3068,15 @@
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532739/opracowanie-programu-funkcjonalno-uzytkowego-pfu-dla-zadania-inwestycyjnego-pn-zaprojektowanie-i-wykonanie-robot-budowlanych-polegajacych-na-przebudowie-i-remoncie-parteru-budynku-administracyjnego-kowr-ot-w-opolu-przy-ul-1-maja-6-wraz-z-dostosowan",
           "title": "532739 AU-005699 172/2026/OP/ZW Opracowanie Programu Funkcjonalno–Użytkowego (PFU) dla zadania inwestycyjnego pn. „Zaprojektowanie i wykonanie robót budowlanych polegających na przebudowie i remoncie parteru budynku administracyjnego KOWR OT w Opolu przy ul. 1 Maja 6, wraz z dostosowaniem go do potrzeb osób z niepełnosprawnościami KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OPOLSKIE Regulaminowe Nie Zakupowe Etap składanie ofert przez platformę eb2b 2026-10-06 14:00 202",
-          "confidence": 75.4
+          "confidence": 76.4
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
+          "title": "533098 AU-005708 POZ.WO.261.82.2026.MGA KOWR OT Poznań - Postępowanie na wykonanie robót budowlanych w siedzibie Sekcji Zamiejscowej KOWR OT Poznań w Przygodzicach, Pardalin 33, polegających na: Część 1: przebudowie pomieszczenia administracyjnego wraz z instalacją wodno-kanalizacyjną i elektryczną oraz wyposażeniem w meble kuchenne. Część 2: modernizacji pomieszczenia sanitarnego z dostosowaniem do potrzeb osób niepełnosprawnych wraz z jego wyposażeniem. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Po",
+          "confidence": 65.6
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525911/kowr-ot-poznan-postepowanie-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-wykonaniu-systemu-kontroli-dostepu-do-wybranych-pomieszczen-w-siedzibie-zam",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533036/kowr-ot-poznan-rozeznanie-rynku-w-celu-oszacowania-wartosci-planowanego-zamowienia-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-remoncie-bocznej-kla",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3116,7 +3182,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
-          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 2 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 1 dzień 2026-10-05 13:56 2026-10-05 13:56",
           "confidence": 61.7
         }
       ],
@@ -3255,6 +3321,41 @@
       "status": "OPUBLIKOWANE"
     },
     {
+      "position": "1.1.9",
+      "subject": "Wykonanie zbiornika bezodpływowego z instalacją kanalizacyjną i wydzieleniem łazienki w msc. Lipowiec 28, gm. Koźmin Wlkp.",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "67 000,00 PLN",
+      "value_net": 67000.0,
+      "planned_start": "I, II kw",
+      "additional_info": "",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Poznań|2026|1.1.9",
+      "unit": "OT Poznań",
+      "year": 2026,
+      "plan_version": 9,
+      "plan_date": "12.08.2026",
+      "plan_bzp": "2026/BZP 00056003/09/P",
+      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
+      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
+      "previous_version": 3,
+      "location": "Lipowiec 28, gm. Koźmin Wlkp",
+      "voivodeship": "wielkopolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
+          "title": "533098 AU-005708 POZ.WO.261.82.2026.MGA KOWR OT Poznań - Postępowanie na wykonanie robót budowlanych w siedzibie Sekcji Zamiejscowej KOWR OT Poznań w Przygodzicach, Pardalin 33, polegających na: Część 1: przebudowie pomieszczenia administracyjnego wraz z instalacją wodno-kanalizacyjną i elektryczną oraz wyposażeniem w meble kuchenne. Część 2: modernizacji pomieszczenia sanitarnego z dostosowaniem do potrzeb osób niepełnosprawnych wraz z jego wyposażeniem. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Po",
+          "confidence": 62.6
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
       "position": "1.1.14",
       "subject": "Rozbiórka budynku gospodarczego dz. nr 282/2 obr. Krzemieniewo, gm. Kurzętnik",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -3376,6 +3477,76 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529174/kowr-ot-pruszcz-gdanski-remont-lokalu-mieszkalnego-nr-2-polozonego-przy-ul-aleja-parku-krajobrazowego-31-w-miejscowosci-lezyce-gmina-wejherowo-wojewodztwo-pomorskie",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.10",
+      "subject": "Wykonanie zbiornika bezodpływowego z instalacją kanalizacyjną w msc. Zgierzynka 81/3, gm. Lwówek",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "53 000,00 PLN",
+      "value_net": 53000.0,
+      "planned_start": "II, III kw",
+      "additional_info": "",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 2,
+      "id": "OT Poznań|2026|1.1.10",
+      "unit": "OT Poznań",
+      "year": 2026,
+      "plan_version": 9,
+      "plan_date": "12.08.2026",
+      "plan_bzp": "2026/BZP 00056003/09/P",
+      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
+      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
+      "previous_version": 3,
+      "location": "Zgierzynka 81/3, gm. Lwówek",
+      "voivodeship": "wielkopolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
+          "title": "533098 AU-005708 POZ.WO.261.82.2026.MGA KOWR OT Poznań - Postępowanie na wykonanie robót budowlanych w siedzibie Sekcji Zamiejscowej KOWR OT Poznań w Przygodzicach, Pardalin 33, polegających na: Część 1: przebudowie pomieszczenia administracyjnego wraz z instalacją wodno-kanalizacyjną i elektryczną oraz wyposażeniem w meble kuchenne. Część 2: modernizacji pomieszczenia sanitarnego z dostosowaniem do potrzeb osób niepełnosprawnych wraz z jego wyposażeniem. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Po",
+          "confidence": 70.0
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.11",
+      "subject": "Wykonanie zbiornika bezodpływowego z instalacją kanalizacyjną w msc. Posadowo 16/4, gm. Lwówek",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "53 000,00 PLN",
+      "value_net": 53000.0,
+      "planned_start": "II, III kw",
+      "additional_info": "",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 3,
+      "id": "OT Poznań|2026|1.1.11",
+      "unit": "OT Poznań",
+      "year": 2026,
+      "plan_version": 9,
+      "plan_date": "12.08.2026",
+      "plan_bzp": "2026/BZP 00056003/09/P",
+      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
+      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
+      "previous_version": 3,
+      "location": "Posadowo 16/4, gm. Lwówek",
+      "voivodeship": "wielkopolskie",
+      "change_status": "BEZ ZMIAN",
+      "change_detail": "",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
+          "title": "533098 AU-005708 POZ.WO.261.82.2026.MGA KOWR OT Poznań - Postępowanie na wykonanie robót budowlanych w siedzibie Sekcji Zamiejscowej KOWR OT Poznań w Przygodzicach, Pardalin 33, polegających na: Część 1: przebudowie pomieszczenia administracyjnego wraz z instalacją wodno-kanalizacyjną i elektryczną oraz wyposażeniem w meble kuchenne. Część 2: modernizacji pomieszczenia sanitarnego z dostosowaniem do potrzeb osób niepełnosprawnych wraz z jego wyposażeniem. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Po",
+          "confidence": 70.9
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533098/kowr-ot-poznan-postepowanie-na-wykonanie-robot-budowlanych-w-siedzibie-sekcji-zamiejscowej-kowr-ot-poznan-w-przygodzicach-pardalin-33-polegajacych-na-czesc-1-przebudowie-pomieszczenia-administracyjnego-wraz-z-instalacja-wodno-kanalizacyjna-i-elektr",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -3678,35 +3849,6 @@
       "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
       "previous_version": 3,
       "location": "Popowo Ignacewo, gm. Mieleszyn",
-      "voivodeship": "wielkopolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PLANOWANE",
-      "status": "PLANOWANE"
-    },
-    {
-      "position": "1.1.35",
-      "subject": "Remont bocznej klatki schodowej oraz pomieszczenia magazynowego znajdujących się w budynku administracyjnym Oddziału Terenowego KOWR zlokalizowanym w Poznaniu przy ulicy Fredry 12.",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "447 154,47 PLN",
-      "value_net": 447154.47,
-      "planned_start": "III kw",
-      "additional_info": "",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 6,
-      "id": "OT Poznań|2026|1.1.35",
-      "unit": "OT Poznań",
-      "year": 2026,
-      "plan_version": 9,
-      "plan_date": "12.08.2026",
-      "plan_bzp": "2026/BZP 00056003/09/P",
-      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
-      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
-      "previous_version": 3,
-      "location": "",
       "voivodeship": "wielkopolskie",
       "change_status": "BEZ ZMIAN",
       "change_detail": "",
@@ -4180,35 +4322,6 @@
       "status": "PLANOWANE"
     },
     {
-      "position": "1.1.9",
-      "subject": "Wykonanie zbiornika bezodpływowego z instalacją kanalizacyjną i wydzieleniem łazienki w msc. Lipowiec 28, gm. Koźmin Wlkp.",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "67 000,00 PLN",
-      "value_net": 67000.0,
-      "planned_start": "I, II kw",
-      "additional_info": "",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Poznań|2026|1.1.9",
-      "unit": "OT Poznań",
-      "year": 2026,
-      "plan_version": 9,
-      "plan_date": "12.08.2026",
-      "plan_bzp": "2026/BZP 00056003/09/P",
-      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
-      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
-      "previous_version": 3,
-      "location": "Lipowiec 28, gm. Koźmin Wlkp",
-      "voivodeship": "wielkopolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PLANOWANE",
-      "status": "PLANOWANE"
-    },
-    {
       "position": "1.1.21",
       "subject": "Wykonanie instalacji CO, CWU wraz z pomieszczeniem kotłowni oraz przewodów kominowych w lokalu mieszkalnym w msc. Lulkowo 22, gm. Gniezno",
       "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
@@ -4345,64 +4458,6 @@
       "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
       "previous_version": 3,
       "location": "Magnuszewice 101/3, gm. Kotlin",
-      "voivodeship": "wielkopolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PLANOWANE",
-      "status": "PLANOWANE"
-    },
-    {
-      "position": "1.1.10",
-      "subject": "Wykonanie zbiornika bezodpływowego z instalacją kanalizacyjną w msc. Zgierzynka 81/3, gm. Lwówek",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "53 000,00 PLN",
-      "value_net": 53000.0,
-      "planned_start": "II, III kw",
-      "additional_info": "",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 2,
-      "id": "OT Poznań|2026|1.1.10",
-      "unit": "OT Poznań",
-      "year": 2026,
-      "plan_version": 9,
-      "plan_date": "12.08.2026",
-      "plan_bzp": "2026/BZP 00056003/09/P",
-      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
-      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
-      "previous_version": 3,
-      "location": "Zgierzynka 81/3, gm. Lwówek",
-      "voivodeship": "wielkopolskie",
-      "change_status": "BEZ ZMIAN",
-      "change_detail": "",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PLANOWANE",
-      "status": "PLANOWANE"
-    },
-    {
-      "position": "1.1.11",
-      "subject": "Wykonanie zbiornika bezodpływowego z instalacją kanalizacyjną w msc. Posadowo 16/4, gm. Lwówek",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "53 000,00 PLN",
-      "value_net": 53000.0,
-      "planned_start": "II, III kw",
-      "additional_info": "",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 3,
-      "id": "OT Poznań|2026|1.1.11",
-      "unit": "OT Poznań",
-      "year": 2026,
-      "plan_version": 9,
-      "plan_date": "12.08.2026",
-      "plan_bzp": "2026/BZP 00056003/09/P",
-      "plan_title": "OT Poznań - pan postępowań o udzielenie zamówień na rok 2026 aktualizacja z dnia 12-08-2026 OT _Poznań _- _pan _postępowań _o _udzielenie _zamówień _na _rok _2026 _aktualizacja _z _dnia _12082026.pdf 0.07MB",
-      "plan_url": "https://www.gov.pl/attachment/70b2cc8b-ce2e-4637-9d32-3c9591202072",
-      "previous_version": 3,
-      "location": "Posadowo 16/4, gm. Lwówek",
       "voivodeship": "wielkopolskie",
       "change_status": "BEZ ZMIAN",
       "change_detail": "",
@@ -4809,7 +4864,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532543/rozbiorka-2-komorowego-przejazdowego-silosu-na-kiszonke-znajdujacego-sie-w-miejscowosci-rzeczyca-dz-nr-681-12-681-15-gmina-grebocice-powiat-polkowicki",
-          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 2 dni 2026-10-05 13:56 2026-10-05 13:56",
+          "title": "532543 AU-005687 WRO.WBiGM.4272.14.2026.JW Rozbiórka 2 komorowego, przejazdowego silosu na kiszonkę znajdującego się w miejscowości Rzeczyca, dz. nr 681/12, 681/15, gmina Grębocice, powiat polkowicki KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zakupowe Etap Składanie ofert 2026-10-05 14:00 2026-10-10 00:00 1 dzień 2026-10-05 13:56 2026-10-05 13:56",
           "confidence": 62.1
         }
       ],
