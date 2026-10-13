@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T15:19:34+00:00",
+    "generated_at": "2026-10-13T14:10:20+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -11,8 +11,8 @@
       "documents": 49,
       "value_net": 45374645.52,
       "new_or_changed": 74,
-      "published": 59,
-      "past_due": 25,
+      "published": 60,
+      "past_due": 24,
       "expected_units": 18,
       "missing_units": 3
     },
@@ -109,35 +109,6 @@
       "announcement_matches": [],
       "announcement_url": "",
       "timing_status": "PLANOWANE",
-      "status": "NOWE"
-    },
-    {
-      "position": "1.1.10",
-      "subject": "Rozbiórka 16 szt. obiektów budowlanych Oleszna Podgórska dz. 4/2",
-      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
-      "value_text": "915 000,00 PLN",
-      "value_net": 915000.0,
-      "planned_start": "II-III kwartał",
-      "additional_info": "Zamówienie jest odpowiednie dla MŚP: TAK Zamówienie strategiczne (zielone, społeczne, innowacyjne): NIE Zamówienie zastrzeżone: NIE Charakter zamówienia: zamówienia klasyczne",
-      "update_info": "",
-      "threshold": "poniżej progów UE",
-      "page": 4,
-      "id": "OT Wrocław|2026|1.1.10",
-      "unit": "OT Wrocław",
-      "year": 2026,
-      "plan_version": 7,
-      "plan_date": "30.07.2026",
-      "plan_bzp": "2026/BZP 00110031/07/P",
-      "plan_title": "OT Wrocław - Plan postępowań o udzielenie zamówień publicznych 2026 (aktualizacja na dzień 30.07.2026) 2026 _BZP _00110031 _07 _P.pdf 0.09MB",
-      "plan_url": "https://www.gov.pl/attachment/db25419a-49d4-40bb-ba48-cc2e499f70d3",
-      "previous_version": null,
-      "location": "",
-      "voivodeship": "dolnośląskie",
-      "change_status": "NOWE",
-      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
-      "announcement_matches": [],
-      "announcement_url": "",
-      "timing_status": "PO TERMINIE – BRAK OGŁOSZENIA",
       "status": "NOWE"
     },
     {
@@ -1572,8 +1543,8 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/532788/zapytanie-ofertowe-na-dostawe-mebli-do-siedziby-sekcji-zamiejscowej-w-swidnicy-z-siedziba-w-szczawnie-zdroju-zamawiajacy-zamierza-przeznaczyc-na-realizacje-zamowienia-kwote-brutto-zlotych-170-477-12",
-          "title": "532788 AU-005701 WRO.WO.261.63.2026.KM ZAPYTANIE OFERTOWE na dostawę mebli do siedziby Sekcji Zamiejscowej w Świdnicy z siedzibą w Szczawnie-Zdroju Zamawiający zamierza przeznaczyć na realizację zamówienia kwotę brutto złotych: 170 477,12 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE JOANNA GONTARSKA Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-10-12 10:00 2026-10-06 15:26 2026-10-06 15:25",
-          "confidence": 60.3
+          "title": "532788 AU-005701 WRO.WO.261.63.2026.KM ZAPYTANIE OFERTOWE na dostawę mebli do siedziby Sekcji Zamiejscowej w Świdnicy z siedzibą w Szczawnie-Zdroju Zamawiający zamierza przeznaczyć na realizację zamówienia kwotę brutto złotych: 170 477,12 KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE KAROLINA PRZYBYSZ Regulaminowe Nie Zakupowe Zakończono etap składanie ofert 2026-10-12 10:00 2026-10-06 15:26 2026-10-06 15:25",
+          "confidence": 60.2
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/526955/remont-lokalu-mieszkalnego-w-zakresie-wydzielenia-pomieszczenia-lazienki-wraz-z-wentylacja-zlokalizowanego-w-miejscowosci-patnow-legnicki-przy-ul-ganczarska-2-2-dz-nr-458-30-gm-kunice-powiat-legnicki-ii-postepowanie",
@@ -1627,6 +1598,41 @@
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524223/wymiana-stolarki-okiennej-wraz-z-montazem-rolet-i-nakladek-na-parapety-w-sekcji-zamiejscowej-kowr-w-suwalkach",
+      "timing_status": "OPUBLIKOWANE",
+      "status": "OPUBLIKOWANE"
+    },
+    {
+      "position": "1.1.10",
+      "subject": "Rozbiórka 16 szt. obiektów budowlanych Oleszna Podgórska dz. 4/2",
+      "procedure": "Zamówienie udzielane jest w trybie podstawowym na podstawie: art. 275 pkt 1 ustawy",
+      "value_text": "915 000,00 PLN",
+      "value_net": 915000.0,
+      "planned_start": "II-III kwartał",
+      "additional_info": "Zamówienie jest odpowiednie dla MŚP: TAK Zamówienie strategiczne (zielone, społeczne, innowacyjne): NIE Zamówienie zastrzeżone: NIE Charakter zamówienia: zamówienia klasyczne",
+      "update_info": "",
+      "threshold": "poniżej progów UE",
+      "page": 4,
+      "id": "OT Wrocław|2026|1.1.10",
+      "unit": "OT Wrocław",
+      "year": 2026,
+      "plan_version": 7,
+      "plan_date": "30.07.2026",
+      "plan_bzp": "2026/BZP 00110031/07/P",
+      "plan_title": "OT Wrocław - Plan postępowań o udzielenie zamówień publicznych 2026 (aktualizacja na dzień 30.07.2026) 2026 _BZP _00110031 _07 _P.pdf 0.09MB",
+      "plan_url": "https://www.gov.pl/attachment/db25419a-49d4-40bb-ba48-cc2e499f70d3",
+      "previous_version": null,
+      "location": "",
+      "voivodeship": "dolnośląskie",
+      "change_status": "NOWE",
+      "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
+      "announcement_matches": [
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533607/rozbiorka-obiektow-budowlanych-polozonych-na-dz-nr-8-27-i-8-58-obreb-stary-kamien-gm-prabuty-woj-pomorskie",
+          "title": "533607 AU-005719 PRU.WO.260.20.2026 Rozbiórka obiektów budowlanych położonych na dz. nr 8/27 i 8/58 obręb Stary Kamień, gm. Prabuty, woj. pomorskie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Pruszcz Gdański POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-10-13 12:00 2026-10-28 09:00 14 dni 2026-10-13 10:57 2026-10-13 10:55",
+          "confidence": 73.5
+        }
+      ],
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533607/rozbiorka-obiektow-budowlanych-polozonych-na-dz-nr-8-27-i-8-58-obreb-stary-kamien-gm-prabuty-woj-pomorskie",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
