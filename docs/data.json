@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T13:06:56+00:00",
+    "generated_at": "2026-10-20T11:33:59+00:00",
     "year": 2026,
     "plan_page": "https://www.gov.pl/web/kowr/plan-postepowan",
     "platform_url": "https://kowr.eb2b.com.pl/open-auctions.html",
@@ -1476,6 +1476,11 @@
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533109/kowr-ot-pruszcz-gdanski-usluga-inwentaryzacyjno-projektowa-polegajaca-na-wycenie-srodka-trwalego-oraz-opracowaniu-dokumentacji-projektowo-kosztorysowej-rozbiorki-istniejacego-zbiornika-podziemnego-wraz-z-rozpoznaniem-cieczy-znajdujacej-sie-w-jego-w-1",
           "title": "533109 AU-005709 PRU.WGZ.261.13.2026.EZD.12 KOWR OT Pruszcz Gdański - Usługa inwentaryzacyjno - projektowa polegająca na wycenie środka trwałego oraz opracowaniu dokumentacji projektowo kosztorysowej rozbiórki istniejącego zbiornika podziemnego wraz z rozpoznaniem cieczy znajdującej się w jego wnętrzu - obręb Smołdzino, powiat słupski - II KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA POMORSKIE Regulaminowe Nie Zakupowe Zakończono etap Składanie ofert 2026-10-15 23:59 202",
           "confidence": 100
+        },
+        {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534744/pelnienie-funkcji-inspektora-nadzoru-inwestorskiego-podczas-robot-budowlanych-zabezpieczajacych-budynki-po-wykonaniu-rozbiorki-stodoly-sasiadujacej-z-tymi-budynkami-w-wilczkowie-na-terenie-dz-nr-239-5-gm-malczyce-powiat-sredzki-zgodnie-z-decyzjami",
+          "title": "534744 AU-005746 WRO.WBIGM.261.35.2026.HB Pełnienie funkcji Inspektora Nadzoru Inwestorskiego podczas robót budowlanych zabezpieczających budynki po wykonaniu rozbiórki stodoły sąsiadującej z tymi budynkami w Wilczkowie na terenie dz. nr 239/5, gm. Malczyce, powiat średzki, zgodnie z decyzjami udzielającymi pozwolenia na prace wydanymi przez Dolnośląskiego Wojewódzkiego Konserwatora Zabytków oraz Starosty Średzkiego KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zaku",
+          "confidence": 100
         }
       ],
       "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/525568/inwentaryzacja-architektoniczno-budowlana-z-opisanymi-fotografiami-elewacji-i-elementow-konstrukcji-dachy-stropy-wybrane-detale-budynku-spichlerza-i-obory-wraz-z-projektem-rozbiorki-dodatkowo-kosztorys-rozbiorki-wszystkich-budynkow-znajdujacych-sie",
@@ -1604,7 +1609,7 @@
       "announcement_matches": [
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/533607/rozbiorka-obiektow-budowlanych-polozonych-na-dz-nr-8-27-i-8-58-obreb-stary-kamien-gm-prabuty-woj-pomorskie",
-          "title": "533607 AU-005719 PRU.WO.260.20.2026 Rozbiórka obiektów budowlanych położonych na dz. nr 8/27 i 8/58 obręb Stary Kamień, gm. Prabuty, woj. pomorskie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Pruszcz Gdański POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-10-13 12:00 2026-10-28 09:00 8 dni 2026-10-13 10:57 2026-10-13 10:55",
+          "title": "533607 AU-005719 PRU.WO.260.20.2026 Rozbiórka obiektów budowlanych położonych na dz. nr 8/27 i 8/58 obręb Stary Kamień, gm. Prabuty, woj. pomorskie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Pruszcz Gdański POMORSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap składania ofert 2026-10-13 12:00 2026-10-28 09:00 7 dni 2026-10-13 10:57 2026-10-13 10:55",
           "confidence": 73.5
         }
       ],
@@ -1638,12 +1643,17 @@
       "change_detail": "Pozycja nie występowała w poprzedniej wersji planu",
       "announcement_matches": [
         {
+          "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534744/pelnienie-funkcji-inspektora-nadzoru-inwestorskiego-podczas-robot-budowlanych-zabezpieczajacych-budynki-po-wykonaniu-rozbiorki-stodoly-sasiadujacej-z-tymi-budynkami-w-wilczkowie-na-terenie-dz-nr-239-5-gm-malczyce-powiat-sredzki-zgodnie-z-decyzjami",
+          "title": "534744 AU-005746 WRO.WBIGM.261.35.2026.HB Pełnienie funkcji Inspektora Nadzoru Inwestorskiego podczas robót budowlanych zabezpieczających budynki po wykonaniu rozbiórki stodoły sąsiadującej z tymi budynkami w Wilczkowie na terenie dz. nr 239/5, gm. Malczyce, powiat średzki, zgodnie z decyzjami udzielającymi pozwolenia na prace wydanymi przez Dolnośląskiego Wojewódzkiego Konserwatora Zabytków oraz Starosty Średzkiego KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Regulaminowe Nie Zaku",
+          "confidence": 87.4
+        },
+        {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529052/wykonanie-robot-zabezpieczajacych-budynki-po-wykonaniu-rozbiorki-stodoly-sasiadujacej-z-tymi-budynkami-w-wilczkowie-na-dzialce-nr-239-5-gm-malczyce",
           "title": "529052 AU-005621 WRO.WO.260.22.2026 Wykonanie robót zabezpieczających budynki po wykonaniu rozbiórki stodoły sąsiadującej z tymi budynkami w Wilczkowie na działce nr 239/5, gm. Malczyce KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Wrocław DOLNOŚLĄSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Składanie ofert 2026-09-08 14:30 2026-09-25 10:00 7 dni 2026-09-14 13:48 2026-09-08 14:22",
           "confidence": 64.8
         }
       ],
-      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/529052/wykonanie-robot-zabezpieczajacych-budynki-po-wykonaniu-rozbiorki-stodoly-sasiadujacej-z-tymi-budynkami-w-wilczkowie-na-dzialce-nr-239-5-gm-malczyce",
+      "announcement_url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534744/pelnienie-funkcji-inspektora-nadzoru-inwestorskiego-podczas-robot-budowlanych-zabezpieczajacych-budynki-po-wykonaniu-rozbiorki-stodoly-sasiadujacej-z-tymi-budynkami-w-wilczkowie-na-terenie-dz-nr-239-5-gm-malczyce-powiat-sredzki-zgodnie-z-decyzjami",
       "timing_status": "OPUBLIKOWANE",
       "status": "OPUBLIKOWANE"
     },
@@ -1934,7 +1944,7 @@
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534427/modernizacja-instalacji-okablowania-strukturalnego-sieci-lan-instalacji-elektrycznej-kontroli-dostepu-oraz-systemu-sswin-i-monitoringu-wizyjnego-dla-kowr-ot-w-lublinie",
-          "title": "534427 AU-005737 LUB.WO.260.8.2026 Modernizacja instalacji okablowania strukturalnego sieci LAN, instalacji elektrycznej, kontroli dostępu oraz systemu SSWIN i monitoringu wizyjnego dla KOWR OT w Lublinie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA LUBELSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Termin składania ofert 2026-10-19 08:30 2026-10-26 11:00 6 dni 2026-10-19 08:10 2026-10-19 08:10",
+          "title": "534427 AU-005737 LUB.WO.260.8.2026 Modernizacja instalacji okablowania strukturalnego sieci LAN, instalacji elektrycznej, kontroli dostępu oraz systemu SSWIN i monitoringu wizyjnego dla KOWR OT w Lublinie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA LUBELSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Termin składania ofert 2026-10-19 08:30 2026-10-26 11:00 5 dni 2026-10-19 08:10 2026-10-19 08:10",
           "confidence": 75.4
         },
         {
@@ -3025,7 +3035,7 @@
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534314/kowr-ot-poznan-rozeznanie-rynku-w-celu-oszacowania-wartosci-planowanego-zamowienia-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-modernizacji-przylac",
           "title": "534314 AU-005730 POZ.WO.261.90.2026.MGA KOWR OT Poznań - rozeznanie rynku w celu oszacowania wartości planowanego zamówienia na wykonanie dokumentacji projektowo kosztorysowej wraz ze sprawowaniem nadzoru autorskiego podczas realizacji robót budowlanych polegających na modernizacji przyłączy zasilających budynki przy ulicy Fredry 12 oraz Fredry 11a w Poznaniu KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Publiczne (PZP) Rozeznanie rynku Nie Usługa Zakupowe Etap odpowiedzi na rozezna",
-          "confidence": 81.4
+          "confidence": 80.4
         },
         {
           "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/524701/kowr-ot-poznan-rozeznanie-rynku-w-celu-oszacowania-wartosci-planowanego-zamowienia-na-wykonanie-dokumentacji-projektowo-kosztorysowej-wraz-ze-sprawowaniem-nadzoru-autorskiego-podczas-realizacji-robot-budowlanych-polegajacych-na-wykonaniu-systemu-ko",
