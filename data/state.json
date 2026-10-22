@@ -90,7 +90,13 @@
     ],
     "OT Olsztyn|2026|1.1.4": [],
     "OT Olsztyn|2026|1.1.5": [],
-    "OT Olsztyn|2026|1.1.6": [],
+    "OT Olsztyn|2026|1.1.6": [
+      {
+        "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534996/kowr-ot-olsztyn-rozeznanie-cenowe-przeprowadzenie-okresowego-czyszczenia-przewodow-kominowych-wg-zasad-okreslonych-w-rozporzadzeniu-ministra-spraw-wewnetrznych-i-administracji-z-dnia-7-czerwca-2010-roku-w-sprawie-ochrony-przeciwpozarowej-budynkow-i",
+        "title": "534996 AU-005757 OLS.WGZ.MRI.2220.8.2026.1 KOWR OT Olsztyn - ROZEZNANIE CENOWE - przeprowadzenie okresowego czyszczenia przewodów kominowych wg zasad określonych w Rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 roku w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. 2023r., poz.822) w budynkach, kotłowniach i lokalach mieszkalnych będących w Zasobie KOWR, którymi dysponuje Oddział Terenowy KOWR w Olsztynie w 2027r. KRAJOWY",
+        "confidence": 66.3
+      }
+    ],
     "OT Olsztyn|2026|1.1.7": [],
     "OT Olsztyn|2026|1.1.8": [],
     "OT Olsztyn|2026|1.1.9": [],
@@ -342,11 +348,17 @@
         "confidence": 66.7
       }
     ],
-    "OT Poznań|2026|1.1.23": [],
+    "OT Poznań|2026|1.1.23": [
+      {
+        "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534996/kowr-ot-olsztyn-rozeznanie-cenowe-przeprowadzenie-okresowego-czyszczenia-przewodow-kominowych-wg-zasad-okreslonych-w-rozporzadzeniu-ministra-spraw-wewnetrznych-i-administracji-z-dnia-7-czerwca-2010-roku-w-sprawie-ochrony-przeciwpozarowej-budynkow-i",
+        "title": "534996 AU-005757 OLS.WGZ.MRI.2220.8.2026.1 KOWR OT Olsztyn - ROZEZNANIE CENOWE - przeprowadzenie okresowego czyszczenia przewodów kominowych wg zasad określonych w Rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 7 czerwca 2010 roku w sprawie ochrony przeciwpożarowej budynków, innych obiektów budowlanych i terenów (Dz. U. 2023r., poz.822) w budynkach, kotłowniach i lokalach mieszkalnych będących w Zasobie KOWR, którymi dysponuje Oddział Terenowy KOWR w Olsztynie w 2027r. KRAJOWY",
+        "confidence": 89.0
+      }
+    ],
     "OT Poznań|2026|1.1.24": [
       {
         "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534786/kowr-ot-poznan-postepowanie-na-wymiane-kotla-centralnego-ogrzewania-wraz-ze-zbiornikami-paliwowymi-w-kotlowni-budynku-mieszkalnego-w-msc-bierzglin-27-gm-wrzesnia",
-        "title": "534786 AU-005750 POZ.WGZ.261.102.2026.BSR KOWR OT Poznań - postępowanie na wymianę kotła centralnego ogrzewania wraz ze zbiornikami paliwowymi w kotłowni budynku mieszkalnego w msc. Bierzglin 27, gm. Września. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-10-20 14:31 2026-10-26 08:00 4 dni 2026-10-20 14:29 2026-10-20 14:29",
+        "title": "534786 AU-005750 POZ.WGZ.261.102.2026.BSR KOWR OT Poznań - postępowanie na wymianę kotła centralnego ogrzewania wraz ze zbiornikami paliwowymi w kotłowni budynku mieszkalnego w msc. Bierzglin 27, gm. Września. KRAJOWY OŚRODEK WSPARCIA ROLNICTWA OT Poznań WIELKOPOLSKIE Regulaminowe Nie Zakupowe Etap składanie ofert 2026-10-20 14:31 2026-10-26 08:00 3 dni 2026-10-20 14:29 2026-10-20 14:29",
         "confidence": 87.4
       }
     ],
@@ -893,7 +905,7 @@
       },
       {
         "url": "https://kowr.eb2b.com.pl/open-preview-auction.html/534427/modernizacja-instalacji-okablowania-strukturalnego-sieci-lan-instalacji-elektrycznej-kontroli-dostepu-oraz-systemu-sswin-i-monitoringu-wizyjnego-dla-kowr-ot-w-lublinie",
-        "title": "534427 AU-005737 LUB.WO.260.8.2026 Modernizacja instalacji okablowania strukturalnego sieci LAN, instalacji elektrycznej, kontroli dostępu oraz systemu SSWIN i monitoringu wizyjnego dla KOWR OT w Lublinie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA LUBELSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Termin składania ofert 2026-10-19 08:30 2026-10-26 11:00 4 dni 2026-10-19 08:10 2026-10-19 08:10",
+        "title": "534427 AU-005737 LUB.WO.260.8.2026 Modernizacja instalacji okablowania strukturalnego sieci LAN, instalacji elektrycznej, kontroli dostępu oraz systemu SSWIN i monitoringu wizyjnego dla KOWR OT w Lublinie KRAJOWY OŚRODEK WSPARCIA ROLNICTWA KRAJOWY OŚRODEK WSPARCIA ROLNICTWA LUBELSKIE Publiczne (PZP) Podstawowy – bez negocjacji Nie Robota budowlana Zakupowe Etap Termin składania ofert 2026-10-19 08:30 2026-10-26 11:00 3 dni 2026-10-19 08:10 2026-10-19 08:10",
         "confidence": 75.4
       },
       {
@@ -1217,11 +1229,11 @@
       1,
       "20260224"
     ],
-    "https://www.gov.pl/attachment/db25419a-49d4-40bb-ba48-cc2e499f70d3": [
+    "https://www.gov.pl/attachment/5ac9e485-05b4-4050-a9b5-64e5cca5ab2d": [
       2026,
-      7,
-      "20260730"
+      8,
+      "20261022"
     ]
   },
-  "last_run": "2026-10-21T11:45:20+00:00"
+  "last_run": "2026-10-22T11:49:00+00:00"
 }
